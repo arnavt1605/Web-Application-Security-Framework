@@ -2,3 +2,9 @@
 2. Need to create a new container `docker run --rm -it -p 8080:80 --name dvwa vulnerables/web-dvwa`
 3. After running this, the PORTS section in docker ps should look like this: `0.0.0.0:8080->80/tcp`
 4. 2 separates terminals will be running 
+
+```
+docker ps
+CONTAINER ID   IMAGE                  COMMAND      CREATED              STATUS              PORTS                                     NAMES
+31243bd75627   vulnerables/web-dvwa   "/main.sh"   About a minute ago   Up About a minute   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   dvwa
+```
